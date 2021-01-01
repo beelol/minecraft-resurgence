@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Modpack Restorations Test",
+  "name": "Modpack Restorations Test Current",
   "author": "",
   "files": [
     {
@@ -51,6 +51,11 @@
     {
       "projectID": 271835,
       "fileID": 2920437,
+      "required": true
+    },
+    {
+      "projectID": 257356,
+      "fileID": 3101719,
       "required": true
     },
     {
@@ -779,6 +784,11 @@
       "required": true
     },
     {
+      "projectID": 258944,
+      "fileID": 2663561,
+      "required": true
+    },
+    {
       "projectID": 231095,
       "fileID": 2720655,
       "required": true
@@ -806,7 +816,7 @@
     {
       "projectID": 251718,
       "fileID": 2684043,
-      "required": false
+      "required": true
     },
     {
       "projectID": 224428,

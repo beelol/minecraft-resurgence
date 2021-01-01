@@ -1,0 +1,14 @@
+[  
+
+{
+    "dimension": 0,
+    "mod": "Techguns",
+    "mincount": {
+      "amount": 0,
+      "mod": "Techguns",
+      "perchunk": true
+    },
+    "result": "deny"
+  }
+
+]
