@@ -1345,50 +1345,6 @@ forestry:climatiser:3, Greenhouse Humidifier
 forestry:climatiser:4, Greenhouse Dehumidifier
 forestry:greenhouse.window:0, Greenhouse Window
 forestry:greenhouse.window_up:0, Greenhouse Roof Window
-forestry:worktable:0, Worktable
-forestry:book_forester, Forester's Manual
-forestry:database:0, Database
-forestry:crate, Crate
-forestry:honeyed_slice, Honeyed Slice
-forestry:ambrosia, Ambrosia
-forestry:honey_pot, Honey Pot
-forestry:genetic_filter:0, Genetic Filter
-forestry:apiarist_bag, Apiarist's Backpack
-forestry:lepidopterist_bag, Lepidopterist's Backpack
-forestry:miner_bag, Mining Backpack
-forestry:miner_bag_t2, Woven Mining Backpack
-forestry:digger_bag, Digging Backpack
-forestry:digger_bag_t2, Woven Digging Backpack
-forestry:forester_bag, Foresting Backpack
-forestry:forester_bag_t2, Woven Foresting Backpack
-forestry:hunter_bag, Hunting Backpack
-forestry:hunter_bag_t2, Woven Hunting Backpack
-forestry:adventurer_bag, Adventuring Backpack
-forestry:adventurer_bag_t2, Woven Adventuring Backpack
-forestry:builder_bag, Building Backpack
-forestry:builder_bag_t2, Woven Building Backpack
-forestry:bottler:0, Bottler
-forestry:carpenter:0, Carpenter
-forestry:centrifuge:0, Centrifuge
-forestry:fermenter:0, Fermenter
-forestry:moistener:0, Moistener
-forestry:squeezer:0, Squeezer
-forestry:still:0, Still
-forestry:rainmaker:0, Rainmaker
-forestry:fabricator:0, Thermionic Fabricator
-forestry:raintank:0, Rain Tank
-forestry:stamps:0, Stamp (1n)
-forestry:stamps:1, Stamp (2n)
-forestry:stamps:2, Stamp (5n)
-forestry:stamps:3, Stamp (10n)
-forestry:stamps:4, Stamp (20n)
-forestry:stamps:5, Stamp (50n)
-forestry:stamps:6, Stamp (100n)
-forestry:letters, Letter
-forestry:catalogue, Catalogue
-forestry:mailbox:0, Mailbox
-forestry:trade_station:0, Trade Station
-forestry:stamp_collector:0, Stamp Collector
 forestry:engine_peat:0, Peat-fired Engine
 forestry:engine_biogas:0, Biogas Engine
 forestry:engine_clockwork:0, Clockwork Engine
@@ -1404,79 +1360,6 @@ forestry:fluid.short.mead, Short Mead
 forestry:can, item.for.can.name
 forestry:capsule, item.for.capsule.name
 forestry:refractory, item.for.refractory.name
-forestry:habitat_former:0, Habitat Former
-forestry:habitat_screen, Habitat Screen
-forestry:mushroom:0, tile.for.mushroom.name
-forestry:mushroom:1, tile.for.mushroom.name
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:arboretum:0, Arboretum (Managed)
-forestry:arboretum:1, Arboretum (Manual)
-forestry:farm_crops:0, Farm (Managed)
-forestry:farm_crops:1, Farm (Manual)
-forestry:farm_mushroom:0, Mushroom Farm (Managed)
-forestry:farm_mushroom:1, Mushroom Farm (Manual)
-forestry:farm_gourd:0, Gourd Farm (Managed)
-forestry:farm_gourd:1, Gourd Farm (Manual)
-forestry:farm_nether:0, Infernal Farm (Managed)
-forestry:farm_nether:1, Infernal Farm (Manual)
-forestry:farm_ender:0, Ender Farm (Managed)
-forestry:farm_ender:1, Ender Farm (Manual)
-forestry:peat_bog:0, Peat Bog (Managed)
-forestry:peat_bog:1, Peat Bog (Manual)
 forestry:habitat_locator, Habitat Locator
 forestry:imprinter, Imprinter
 forestry:cart.beehouse:0, Minecart with Bee House
@@ -1536,6 +1419,63 @@ forestry:alveary.heater:0, Alveary Heater
 forestry:alveary.hygro:0, Alveary Hygroregulator
 forestry:alveary.stabiliser:0, Alveary Stabiliser
 forestry:alveary.sieve:0, Alveary Sieve
+forestry:mushroom:0, tile.for.mushroom.name
+forestry:mushroom:1, tile.for.mushroom.name
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
 forestry:grafter, Grafter
 forestry:grafter_proven, Proven Grafter
 forestry:logs.0:0, Larch Wood
@@ -1991,6 +1931,20 @@ forestry:tree_chest:0, Arborist's Chest
 forestry:butterfly_chest:0, Lepidopterist's Chest
 forestry:cocoon:0, tile.for.cocoon.name
 forestry:cocoon.solid:0, tile.for.cocoon.solid.name
+forestry:database:0, Database
+forestry:stamps:0, Stamp (1n)
+forestry:stamps:1, Stamp (2n)
+forestry:stamps:2, Stamp (5n)
+forestry:stamps:3, Stamp (10n)
+forestry:stamps:4, Stamp (20n)
+forestry:stamps:5, Stamp (50n)
+forestry:stamps:6, Stamp (100n)
+forestry:letters, Letter
+forestry:catalogue, Catalogue
+forestry:mailbox:0, Mailbox
+forestry:trade_station:0, Trade Station
+forestry:stamp_collector:0, Stamp Collector
+forestry:worktable:0, Worktable
 forestry:charcoal:0, Block of Charcoal
 forestry:wood_pile:0, Wood Pile
 forestry:wood_pile_decorative:0, Decorative Wood Pile
@@ -1999,6 +1953,52 @@ forestry:ash_block_1:0, Ash Block
 forestry:ash_block_2:0, Ash Block
 forestry:ash_block_3:0, Ash Block
 forestry:loam:0, Loam
+forestry:bottler:0, Bottler
+forestry:carpenter:0, Carpenter
+forestry:centrifuge:0, Centrifuge
+forestry:fermenter:0, Fermenter
+forestry:moistener:0, Moistener
+forestry:squeezer:0, Squeezer
+forestry:still:0, Still
+forestry:rainmaker:0, Rainmaker
+forestry:fabricator:0, Thermionic Fabricator
+forestry:raintank:0, Rain Tank
+forestry:habitat_former:0, Habitat Former
+forestry:habitat_screen, Habitat Screen
+forestry:genetic_filter:0, Genetic Filter
+forestry:apiarist_bag, Apiarist's Backpack
+forestry:lepidopterist_bag, Lepidopterist's Backpack
+forestry:miner_bag, Mining Backpack
+forestry:miner_bag_t2, Woven Mining Backpack
+forestry:digger_bag, Digging Backpack
+forestry:digger_bag_t2, Woven Digging Backpack
+forestry:forester_bag, Foresting Backpack
+forestry:forester_bag_t2, Woven Foresting Backpack
+forestry:hunter_bag, Hunting Backpack
+forestry:hunter_bag_t2, Woven Hunting Backpack
+forestry:adventurer_bag, Adventuring Backpack
+forestry:adventurer_bag_t2, Woven Adventuring Backpack
+forestry:builder_bag, Building Backpack
+forestry:builder_bag_t2, Woven Building Backpack
+forestry:honeyed_slice, Honeyed Slice
+forestry:ambrosia, Ambrosia
+forestry:honey_pot, Honey Pot
+forestry:book_forester, Forester's Manual
+forestry:crate, Crate
+forestry:arboretum:0, Arboretum (Managed)
+forestry:arboretum:1, Arboretum (Manual)
+forestry:farm_crops:0, Farm (Managed)
+forestry:farm_crops:1, Farm (Manual)
+forestry:farm_mushroom:0, Mushroom Farm (Managed)
+forestry:farm_mushroom:1, Mushroom Farm (Manual)
+forestry:farm_gourd:0, Gourd Farm (Managed)
+forestry:farm_gourd:1, Gourd Farm (Manual)
+forestry:farm_nether:0, Infernal Farm (Managed)
+forestry:farm_nether:1, Infernal Farm (Manual)
+forestry:farm_ender:0, Ender Farm (Managed)
+forestry:farm_ender:1, Ender Farm (Manual)
+forestry:peat_bog:0, Peat Bog (Managed)
+forestry:peat_bog:1, Peat Bog (Manual)
 binniecore:glass:0, Empty Bottle
 binniecore:glass:1, Apple Juice Bottle
 binniecore:glass:1, Apricot Juice Bottle
@@ -2551,6 +2551,8 @@ botany:misc:5, Compost Powder
 botany:misc:6, Mortar
 botany:misc:7, Weedkiller
 botany:botanist_bag, Botanist's Backpack
+botany:database:0, Botanist Database
+botany:database:1, Master Botanist Database
 botany:insulated_tube:0, Copper Clay Insulated Electron Tube
 botany:insulated_tube:128, Copper Cobblestone Insulated Electron Tube
 botany:insulated_tube:256, Copper Sandstone Insulated Electron Tube
@@ -2575,8 +2577,6 @@ botany:insulated_tube:259, Iron Sandstone Insulated Electron Tube
 botany:insulated_tube:387, Iron Hardened Clay Insulated Electron Tube
 botany:insulated_tube:515, Iron Smooth Stone Insulated Electron Tube
 botany:insulated_tube:643, Iron Sandstone Insulated Electron Tube
-botany:database:0, Botanist Database
-botany:database:1, Master Botanist Database
 extrabees:honey_crystal, item.honey_crystal.name
 extrabees:honey_drop:0, Energy Drop
 extrabees:honey_drop:1, Acidic Drop
@@ -3377,6 +3377,7 @@ extratrees:leaves.decorative.5:14, Leaves
 extratrees:leaves.decorative.5:15, Leaves
 extratrees:leaves.decorative.6:0, Leaves
 extratrees:shrub_log:0, Shrub Wood
+extratrees:databasetree, item.databaseTree.name
 extratrees:machine:0, Lumbermill
 extratrees:machine:1, Woodworker
 extratrees:machine:2, Panelworker
@@ -3384,11 +3385,10 @@ extratrees:machine:4, Fruit Press
 extratrees:machine:5, Brewery
 extratrees:machine:6, Distillery
 extratrees:machine:7, Glassworker
-extratrees:databasetree, item.databaseTree.name
-extratrees:databaselepi, item.databaseLepi.name
 extratrees:carpentry, tile.null.name
 extratrees:carpentrypanel, tile.null.name
 extratrees:stainedglass, tile.null.name
+extratrees:databaselepi, item.databaseLepi.name
 extratrees:drink:0, Beer Mug
 extratrees:drink:0, Pint Glass
 extratrees:drink:0, Snifter Glass
@@ -3688,8 +3688,6 @@ extrautils2:teleporter:0, Overworld Portal
 extrautils2:teleporter:1, Deep Dark Portal
 extrautils2:powertransmitter, Wireless RF Transmitter
 extrautils2:powerbattery, Wireless RF Battery
-extrautils2:quarryproxy, Quantum Quarry Actuator
-extrautils2:quarry, Quantum Quarry
 extrautils2:spike_wood, Wooden Spikes
 extrautils2:spike_stone, Stone Spikes
 extrautils2:spike_iron, Iron Spikes
@@ -14299,43 +14297,43 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Light Blade Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Chisel Head Pattern
 tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Chisel Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Light Blade Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Armor Plates Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -17166,82 +17164,82 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Sword Blade Cast
 tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Light Blade Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Chisel Head Cast
 tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Chisel Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Light Blade Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Armor Plates Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
 tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Light Blade Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Chisel Head Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Chisel Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Light Blade Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -18487,8 +18485,6 @@ fluxnetworks:fluxcontroller, Flux Controller
 fluxnetworks:fluxstorage, Basic Flux Storage
 fluxnetworks:herculeanfluxstorage, Herculean Flux Storage
 fluxnetworks:gargantuanfluxstorage, Gargantuan Flux Storage
-gravestone:gravestone, Grave
-gravestone:death_info, Obituary
 ironbackpacks:backpack:0, Basic Backpack
 ironbackpacks:backpack:0, Iron Backpack
 ironbackpacks:backpack:0, Iron Backpack
@@ -18661,6 +18657,44 @@ redstonefluxarsenal:itemrfenergizedcrystal, Redstone Energized Crystal
 redstonefluxarsenal:itemrfdarkingot, Dark Ingot
 redstonefluxarsenal:itemcomponent, Component
 redstonefluxarsenal:itemtoolwrench, Wrench (WIP)
+xreliquary:altar, tile.altar.name
+xreliquary:apothecary_cauldron, tile.apothecary_cauldron.name
+xreliquary:apothecary_mortar, tile.apothecary_mortar.name
+xreliquary:fertile_lilypad, tile.fertile_lilypad.name
+xreliquary:interdiction_torch, tile.interdiction_torch.name
+xreliquary:wraith_node, tile.wraith_node.name
+xreliquary:pedestal:0, Pedestal
+xreliquary:pedestal:1, Pedestal
+xreliquary:pedestal:2, Pedestal
+xreliquary:pedestal:3, Pedestal
+xreliquary:pedestal:4, Pedestal
+xreliquary:pedestal:5, Pedestal
+xreliquary:pedestal:6, Pedestal
+xreliquary:pedestal:7, Pedestal
+xreliquary:pedestal:8, Pedestal
+xreliquary:pedestal:9, Pedestal
+xreliquary:pedestal:10, Pedestal
+xreliquary:pedestal:11, Pedestal
+xreliquary:pedestal:12, Pedestal
+xreliquary:pedestal:13, Pedestal
+xreliquary:pedestal:14, Pedestal
+xreliquary:pedestal:15, Pedestal
+xreliquary:pedestal_passive:0, Pedestal (Display only)
+xreliquary:pedestal_passive:1, Pedestal (Display only)
+xreliquary:pedestal_passive:2, Pedestal (Display only)
+xreliquary:pedestal_passive:3, Pedestal (Display only)
+xreliquary:pedestal_passive:4, Pedestal (Display only)
+xreliquary:pedestal_passive:5, Pedestal (Display only)
+xreliquary:pedestal_passive:6, Pedestal (Display only)
+xreliquary:pedestal_passive:7, Pedestal (Display only)
+xreliquary:pedestal_passive:8, Pedestal (Display only)
+xreliquary:pedestal_passive:9, Pedestal (Display only)
+xreliquary:pedestal_passive:10, Pedestal (Display only)
+xreliquary:pedestal_passive:11, Pedestal (Display only)
+xreliquary:pedestal_passive:12, Pedestal (Display only)
+xreliquary:pedestal_passive:13, Pedestal (Display only)
+xreliquary:pedestal_passive:14, Pedestal (Display only)
+xreliquary:pedestal_passive:15, Pedestal (Display only)
 xreliquary:alkahestry_tome, item.alkahestry_tome.name
 xreliquary:mob_ingredient:0, Rib Bone
 xreliquary:mob_ingredient:1, Withered Rib
@@ -18769,44 +18803,6 @@ xreliquary:attraction_potion, item.attraction_potion.name
 xreliquary:fertile_potion, item.fertile_potion.name
 xreliquary:potion:0, Condensed Potion Vial
 xreliquary:tipped_arrow, Tipped Arrow
-xreliquary:altar, tile.altar.name
-xreliquary:apothecary_cauldron, tile.apothecary_cauldron.name
-xreliquary:apothecary_mortar, tile.apothecary_mortar.name
-xreliquary:fertile_lilypad, tile.fertile_lilypad.name
-xreliquary:interdiction_torch, tile.interdiction_torch.name
-xreliquary:wraith_node, tile.wraith_node.name
-xreliquary:pedestal:0, Pedestal
-xreliquary:pedestal:1, Pedestal
-xreliquary:pedestal:2, Pedestal
-xreliquary:pedestal:3, Pedestal
-xreliquary:pedestal:4, Pedestal
-xreliquary:pedestal:5, Pedestal
-xreliquary:pedestal:6, Pedestal
-xreliquary:pedestal:7, Pedestal
-xreliquary:pedestal:8, Pedestal
-xreliquary:pedestal:9, Pedestal
-xreliquary:pedestal:10, Pedestal
-xreliquary:pedestal:11, Pedestal
-xreliquary:pedestal:12, Pedestal
-xreliquary:pedestal:13, Pedestal
-xreliquary:pedestal:14, Pedestal
-xreliquary:pedestal:15, Pedestal
-xreliquary:pedestal_passive:0, Pedestal (Display only)
-xreliquary:pedestal_passive:1, Pedestal (Display only)
-xreliquary:pedestal_passive:2, Pedestal (Display only)
-xreliquary:pedestal_passive:3, Pedestal (Display only)
-xreliquary:pedestal_passive:4, Pedestal (Display only)
-xreliquary:pedestal_passive:5, Pedestal (Display only)
-xreliquary:pedestal_passive:6, Pedestal (Display only)
-xreliquary:pedestal_passive:7, Pedestal (Display only)
-xreliquary:pedestal_passive:8, Pedestal (Display only)
-xreliquary:pedestal_passive:9, Pedestal (Display only)
-xreliquary:pedestal_passive:10, Pedestal (Display only)
-xreliquary:pedestal_passive:11, Pedestal (Display only)
-xreliquary:pedestal_passive:12, Pedestal (Display only)
-xreliquary:pedestal_passive:13, Pedestal (Display only)
-xreliquary:pedestal_passive:14, Pedestal (Display only)
-xreliquary:pedestal_passive:15, Pedestal (Display only)
 rftoolspower:power_core1, Power Core (Low)
 rftoolspower:power_core2, Power Core (Medium)
 rftoolspower:power_core3, Power Core (High)
@@ -18814,27 +18810,6 @@ rftoolspower:cell1, Powercell (Low)
 rftoolspower:cell2, Powercell (Medium)
 rftoolspower:cell3, Powercell (High)
 rftoolspower:information_screen, Information Screen
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -18885,6 +18860,27 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawersextra:extra_drawers:0, Basic Drawer
 storagedrawersextra:extra_drawers:0, Basic Drawer
 storagedrawersextra:extra_drawers:0, Basic Drawer
@@ -19216,10 +19212,8 @@ techguns:itemshared:75, TGX
 techguns:itemshared:76, Nether Charge
 techguns:itemshared:77, Treated Leather
 techguns:itemshared:78, Titanium Ore
-techguns:itemshared:83, Steel Ingot
 techguns:itemshared:84, Obsidian Steel Ingot
 techguns:itemshared:85, Titanium Ingot
-techguns:itemshared:88, Steel Nugget
 techguns:itemshared:89, Gas Mask Filter
 techguns:itemshared:90, Glider Backpack
 techguns:itemshared:91, Glider Wing
@@ -19748,6 +19742,7 @@ thaumicaugmentation:obelisk_placer:0, Eldritch Obelisk
 thaumicaugmentation:obelisk_placer:1, Ancient Obelisk
 thaumicaugmentation:research_notes:0, Tattered Scrolls
 thaumicaugmentation:augment_vis_battery, Vis Battery Augment
+thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_16k, 16k ME Essentia Storage Cell
@@ -19766,7 +19761,6 @@ thaumicenergistics:essentia_component_16k, 16k ME Essentia Storage Component
 thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
 thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
-thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumicperiphery:pauldron, Pauldron
 thaumicperiphery:pauldron_repulsion, Pauldron of Repulsion
 thaumicperiphery:malignant_heart, Malignant Heart
@@ -19834,6 +19828,14 @@ thaumicrestoration:item_lighter, item.item_lighter.name
 thaumicrestoration:item_shard, Colorful Curiosity
 thaumicrestoration:item_bucket:0, Infinite Water Bucket
 thaumicrestoration:item_toast, Thaumic Toast
+thaumictinkerer:share_book, Tome of Knowledge Sharing
+thaumictinkerer:black_quartz, Smokey Quartz
+thaumictinkerer:connector, Transvector Binder
+thaumictinkerer:soul_mould, Soul Mould
+thaumictinkerer:energetic_nitor, Energetic Nitor
+thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
+thaumictinkerer:blood_sword, Cursed Spirit's Blade
+thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
 thaumictinkerer:funnel, Essentia Funnel
 thaumictinkerer:dissimulation, Dissimulation Block
 thaumictinkerer:transvector_interface, Transvector Interface
@@ -19846,44 +19848,36 @@ thaumictinkerer:enchantment_pillar, Enchanting Pillar
 thaumictinkerer:animation_tablet, Dynamism Tablet
 thaumictinkerer:black_quartz_block, Black Quartz Block
 thaumictinkerer:dummy_nitor, tile.thaumictinkerer:dummy_nitor.name
-thaumictinkerer:share_book, Tome of Knowledge Sharing
-thaumictinkerer:black_quartz, Smokey Quartz
-thaumictinkerer:connector, Transvector Binder
-thaumictinkerer:soul_mould, Soul Mould
-thaumictinkerer:energetic_nitor, Energetic Nitor
-thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
-thaumictinkerer:blood_sword, Cursed Spirit's Blade
-thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
-thaumicwonders:catalyzation_chamber, Catalyzation Chamber
-thaumicwonders:primordial_accelerator_tunnel, Primordial Accelerator Tunnel
-thaumicwonders:shimmerleaf_crop, Shimmerleaf
-thaumicwonders:placeholder_void_metal_block, Primordial Accretion Chamber
-thaumicwonders:meteorb, Meteorb
-thaumicwonders:placeholder_adv_alch_construct, Primordial Accretion Chamber
-thaumicwonders:vishroom_crop, Vishroom
-thaumicwonders:portal_generator, Portal Generator
-thaumicwonders:everburning_urn, Everburning Urn
-thaumicwonders:flux_capacitor, Flux Capacitor
-thaumicwonders:primordial_accretion_chamber, Primordial Accretion Chamber
-thaumicwonders:portal_anchor, Portal Anchor
-thaumicwonders:placeholder_obsidian, Catalyzation Chamber
-thaumicwonders:coalescence_matrix_precursor, Coalescence Matrix
-thaumicwonders:placeholder_thaumium_block, Primordial Accretion Chamber
-thaumicwonders:flux_distiller, Flux Distiller
-thaumicwonders:placeholder_arcane_stone, Catalyzation Chamber
-thaumicwonders:primordial_accelerator_terminus, Primordial Accelerator Terminus
 thaumicwonders:inspiration_engine, Inspiration Engine
-thaumicwonders:primordial_accelerator, Primordial Accelerator
+thaumicwonders:meteorb, Meteorb
+thaumicwonders:placeholder_arcane_stone, Catalyzation Chamber
 thaumicwonders:meaty_orb, Meaty Orb
-thaumicwonders:creative_essentia_jar, Creative Essentia Jar
-thaumicwonders:hexamite, Hexamite
-thaumicwonders:ore_diviner, Ore Diviner
+thaumicwonders:dimensional_ripper, Dimensional Ripper
+thaumicwonders:portal_generator, Portal Generator
+thaumicwonders:catalyzation_chamber, Catalyzation Chamber
+thaumicwonders:flux_distiller, Flux Distiller
+thaumicwonders:primordial_accelerator, Primordial Accelerator
+thaumicwonders:primordial_accretion_chamber, Primordial Accretion Chamber
 thaumicwonders:void_beacon, Void Beacon
+thaumicwonders:primordial_accelerator_tunnel, Primordial Accelerator Tunnel
 thaumicwonders:cinderpearl_crop, Cinderpearl
+thaumicwonders:hexamite, Hexamite
+thaumicwonders:everburning_urn, Everburning Urn
+thaumicwonders:ore_diviner, Ore Diviner
+thaumicwonders:primordial_accelerator_terminus, Primordial Accelerator Terminus
 thaumicwonders:madness_engine, Madness Engine
 thaumicwonders:coalescence_matrix, Coalescence Matrix
+thaumicwonders:flux_capacitor, Flux Capacitor
+thaumicwonders:placeholder_obsidian, Catalyzation Chamber
+thaumicwonders:vishroom_crop, Vishroom
+thaumicwonders:placeholder_void_metal_block, Primordial Accretion Chamber
+thaumicwonders:shimmerleaf_crop, Shimmerleaf
+thaumicwonders:coalescence_matrix_precursor, Coalescence Matrix
+thaumicwonders:creative_essentia_jar, Creative Essentia Jar
+thaumicwonders:placeholder_adv_alch_construct, Primordial Accretion Chamber
 thaumicwonders:alkahest_vat, Alkahest Vat
-thaumicwonders:dimensional_ripper, Dimensional Ripper
+thaumicwonders:placeholder_thaumium_block, Primordial Accretion Chamber
+thaumicwonders:portal_anchor, Portal Anchor
 thaumicwonders:disjunction_cloth, Disjunction Cloth
 thaumicwonders:primal_destroyer, Primal Destroyer
 thaumicwonders:flying_carpet, Flying Carpet
@@ -19942,6 +19936,22 @@ tinker_io:smart_output, Smart Output
 tinker_io:what_a_beautiful_block, What a beautiful block
 tinker_io:ore_crusher, Ore Crusher
 tinker_io:stirling_engine, Stirling Engine
+tinkers_reforged:kovar_ingot, Kovar Ingot
+tinkers_reforged:kovar_nugget, Kovar Nugget
+tinkers_reforged:kovar_dust, item.tinkers_reforged.kovar_dust.name
+tinkers_reforged:kovar_plate, Kovar Plate
+tinkers_reforged:kovar_gear, Kovar Gear
+tinkers_reforged:lavium_ingot, Lavium Ingot
+tinkers_reforged:lavium_nugget, Lavium Nugget
+tinkers_reforged:lavium_dust, Lavium Dust
+tinkers_reforged:lavium_plate, Lavium Plate
+tinkers_reforged:lavium_gear, Lavium Gear
+tinkers_reforged:qivium_ingot, Qivium Ingot
+tinkers_reforged:qivium_nugget, Qivium Nugget
+tinkers_reforged:qivium_dust, Qivium Dust
+tinkers_reforged:qivium_plate, Qivium Plate
+tinkers_reforged:qivium_gear, Qivium Gear
+tinkers_reforged:kovar_glass, Kovar Glass
 tinkers_reforged:gladius, Gladius
 tinkers_reforged:light_blade:0, Electrical Light Blade
 tinkers_reforged:light_blade:0, Energetic Light Blade
@@ -20054,22 +20064,6 @@ tinkers_reforged:light_blade:0, Lavium Light Blade
 tinkers_reforged:light_blade:0, Qivium Light Blade
 tinkers_reforged:light_blade:0, Blood Bronze Light Blade
 tinkers_reforged:lightsword, Lightsword
-tinkers_reforged:kovar_ingot, Kovar Ingot
-tinkers_reforged:kovar_nugget, Kovar Nugget
-tinkers_reforged:kovar_dust, item.tinkers_reforged.kovar_dust.name
-tinkers_reforged:kovar_plate, Kovar Plate
-tinkers_reforged:kovar_gear, Kovar Gear
-tinkers_reforged:lavium_ingot, Lavium Ingot
-tinkers_reforged:lavium_nugget, Lavium Nugget
-tinkers_reforged:lavium_dust, Lavium Dust
-tinkers_reforged:lavium_plate, Lavium Plate
-tinkers_reforged:lavium_gear, Lavium Gear
-tinkers_reforged:qivium_ingot, Qivium Ingot
-tinkers_reforged:qivium_nugget, Qivium Nugget
-tinkers_reforged:qivium_dust, Qivium Dust
-tinkers_reforged:qivium_plate, Qivium Plate
-tinkers_reforged:qivium_gear, Qivium Gear
-tinkers_reforged:kovar_glass, Kovar Glass
 tcomplement:materials:0, Stone Bucket
 tcomplement:materials:1, Scorched Brick
 tcomplement:materials:6, iModifier
@@ -20254,12 +20248,12 @@ tcomplement:chisel_head:0, Lavium Chisel Head
 tcomplement:chisel_head:0, Qivium Chisel Head
 tcomplement:chisel_head:0, Blood Bronze Chisel Head
 tcomplement:chisel, Chisel
-torchmaster:frozen_pearl, Frozen Pearl
 torchmaster:mega_torch:0, Mega Torch
 torchmaster:mega_torch:1, Unlit Mega Torch
 torchmaster:terrain_lighter, Terrain Lighter
 torchmaster:dread_lamp, Dread Lamp
 torchmaster:feral_flare_lantern, Feral Flare Lantern
+torchmaster:frozen_pearl, Frozen Pearl
 wct:wct, Wireless Crafting Terminal
 wct:wct_creative, Creative Wireless Crafting Terminal
 wct:magnet_card, Magnet Card
@@ -25244,13 +25238,13 @@ magicbees:mysteriousmagnet:18, Mysterious Magnet
 magicbees:moondial, Jade Moon Dial
 magicbees:manasteelgrafter, Manasteel Grafter
 magicbees:manasteelscoop, Manasteel Scoop
-magicbees:frames.magic, Magic Frame
-magicbees:frames.gentle, Gentle Frame
-magicbees:frames.oblivion, Oblivion Frame
-magicbees:frames.resilient, Resilient Frame
-magicbees:frames.temporal, Temporal Frame
-magicbees:frames.necrotic, Necrotic Frame
 magicbees:frames.metabolic, Metabolic Frame
+magicbees:frames.oblivion, Oblivion Frame
+magicbees:frames.gentle, Gentle Frame
+magicbees:frames.temporal, Temporal Frame
+magicbees:frames.resilient, Resilient Frame
+magicbees:frames.magic, Magic Frame
+magicbees:frames.necrotic, Necrotic Frame
 magicbees:hiveblock:0, Curious Hive
 magicbees:hiveblock:1, Unusual Hive
 magicbees:hiveblock:2, Resonating Hive
