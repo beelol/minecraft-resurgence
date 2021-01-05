@@ -9,9 +9,9 @@
     ]
   },
   "manifestType": "minecraftModpack",
-  "manifestVersion": 1,
-  "name": "Modpack Restorations Test Current",
-  "author": "",
+  "manifestVersion": 1.1,
+  "name": "Resurgence",
+  "author": "Forkgaming",
   "files": [
     {
       "projectID": 240630,
