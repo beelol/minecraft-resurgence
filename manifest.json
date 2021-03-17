@@ -9,7 +9,7 @@
     ]
   },
   "manifestType": "minecraftModpack",
-  "manifestVersion": 2,
+  "manifestVersion": 3,
   "name": "Resurgence",
   "author": "Forkgaming",
   "files": [
@@ -509,11 +509,6 @@
       "required": true
     },
     {
-      "projectID": 224791,
-      "fileID": 2822288,
-      "required": true
-    },
-    {
       "projectID": 316704,
       "fileID": 2787954,
       "required": true
@@ -594,13 +589,13 @@
       "required": true
     },
     {
-      "projectID": 220954,
-      "fileID": 2881277,
+      "projectID": 278882,
+      "fileID": 2716712,
       "required": true
     },
     {
-      "projectID": 278882,
-      "fileID": 2716712,
+      "projectID": 220954,
+      "fileID": 2881277,
       "required": true
     },
     {
@@ -639,13 +634,13 @@
       "required": true
     },
     {
-      "projectID": 232131,
-      "fileID": 2624732,
+      "projectID": 237701,
+      "fileID": 2560638,
       "required": true
     },
     {
-      "projectID": 237701,
-      "fileID": 2560638,
+      "projectID": 232131,
+      "fileID": 2624732,
       "required": true
     },
     {
@@ -664,13 +659,13 @@
       "required": true
     },
     {
-      "projectID": 291737,
-      "fileID": 2920441,
+      "projectID": 356349,
+      "fileID": 3136987,
       "required": true
     },
     {
-      "projectID": 356349,
-      "fileID": 3136987,
+      "projectID": 291737,
+      "fileID": 2920441,
       "required": true
     },
     {
@@ -684,8 +679,8 @@
       "required": true
     },
     {
-      "projectID": 278385,
-      "fileID": 2482543,
+      "projectID": 71738,
+      "fileID": 2661618,
       "required": true
     },
     {
@@ -694,8 +689,8 @@
       "required": true
     },
     {
-      "projectID": 71738,
-      "fileID": 2661618,
+      "projectID": 278385,
+      "fileID": 2482543,
       "required": true
     },
     {
@@ -736,11 +731,6 @@
     {
       "projectID": 224375,
       "fileID": 2712805,
-      "required": true
-    },
-    {
-      "projectID": 228832,
-      "fileID": 2645992,
       "required": true
     },
     {
@@ -789,18 +779,13 @@
       "required": true
     },
     {
-      "projectID": 231095,
-      "fileID": 2720655,
-      "required": true
-    },
-    {
       "projectID": 256717,
       "fileID": 2666198,
       "required": true
     },
     {
-      "projectID": 306851,
-      "fileID": 2638208,
+      "projectID": 231095,
+      "fileID": 2720655,
       "required": true
     },
     {
@@ -824,8 +809,8 @@
       "required": true
     },
     {
-      "projectID": 293505,
-      "fileID": 2766866,
+      "projectID": 242818,
+      "fileID": 2779848,
       "required": true
     },
     {
@@ -834,8 +819,8 @@
       "required": true
     },
     {
-      "projectID": 242818,
-      "fileID": 2779848,
+      "projectID": 293505,
+      "fileID": 2766866,
       "required": true
     },
     {
