@@ -1,6 +1,28 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.remove(<tconstruct:slime_boots:4>);
+recipes.remove(<tconstruct:slime_boots:4>);
+recipes.remove(<tconstruct:slime_boots:2>);
+recipes.remove(<tconstruct:slime_boots:1>);
+recipes.remove(<tconstruct:slime_boots>);
+recipes.remove(<conarm:travel_belt_base>);
+recipes.remove(<conarm:travel_belt_base>);
+recipes.remove(<conarm:travel_belt_base>);
+recipes.remove(<conarm:travel_belt_base>);
+recipes.remove(<conarm:travel_belt_base>);
+recipes.remove(<conarm:travel_belt_base>);
+recipes.remove(<conarm:travel_belt>);
+recipes.remove(<conarm:travel_potion>);
+recipes.remove(<conarm:travel_sack>);
+recipes.remove(<conarm:travel_goggles_base>);
+recipes.remove(<conarm:travel_goggles>);
+recipes.remove(<conarm:travel_night>);
+recipes.remove(<conarm:travel_cloak>);
+recipes.remove(<conarm:travel_sneak>);
+recipes.remove(<conarm:travel_sneak>);
+recipes.remove(<conarm:travel_slowfall>);
+recipes.remove(<conarm:travel_soul>);
 recipes.remove(<extrautils2:bagofholding>);
 recipes.remove(<thermalfoundation:security>);
 recipes.remove(<tconstruct:slimesling:4>);
