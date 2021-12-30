@@ -9,7 +9,7 @@
     ]
   },
   "manifestType": "minecraftModpack",
-  "manifestVersion": 1.1,
+  "manifestVersion": 1,
   "name": "Resurgence",
   "author": "Forkgaming",
   "files": [
@@ -299,11 +299,6 @@
       "required": true
     },
     {
-      "projectID": 297057,
-      "fileID": 2668704,
-      "required": true
-    },
-    {
       "projectID": 312660,
       "fileID": 2666739,
       "required": true
@@ -509,11 +504,6 @@
       "required": true
     },
     {
-      "projectID": 224791,
-      "fileID": 2822288,
-      "required": true
-    },
-    {
       "projectID": 316704,
       "fileID": 2787954,
       "required": true
@@ -576,11 +566,6 @@
     {
       "projectID": 248787,
       "fileID": 2987247,
-      "required": true
-    },
-    {
-      "projectID": 267172,
-      "fileID": 3123897,
       "required": true
     },
     {
@@ -739,11 +724,6 @@
       "required": true
     },
     {
-      "projectID": 228832,
-      "fileID": 2645992,
-      "required": true
-    },
-    {
       "projectID": 239418,
       "fileID": 2645156,
       "required": true
@@ -796,11 +776,6 @@
     {
       "projectID": 256717,
       "fileID": 2666198,
-      "required": true
-    },
-    {
-      "projectID": 306851,
-      "fileID": 2638208,
       "required": true
     },
     {
