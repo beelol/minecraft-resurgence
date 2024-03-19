@@ -103,43 +103,7 @@
                 "type" : "openGui",
                 "gui" : "languages"
             }
-        },
-        "pack support":
-        {
-            "text" : "Pack Support",
-            "posX" : -90,
-            "posY" : -28,
-			"textOffsetX" : 0,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
-            "action" : 
-            {
-                "type" : "openLink",
-				"link" : "https://github.com/FTBTeam/FTB-Revelation-2/issues"
-            }
-        },		
-        "changelog":
-        {
-            "text" : "Changelogs",
-            "posX" : -90,
-            "posY" : -14,
-			"textOffsetX" : 5,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
-            "action" : 
-            {
-                "type" : "openLink",
-				"link" : "https://www.feed-the-beast.com/modpack/ftb_revelation"
-            }
-        },
+        },        
 		"website":
         {
             "text" : "Website",
@@ -155,27 +119,9 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "http://www.feed-the-beast.com/"
+				"link" : "https://www.curseforge.com/minecraft/modpacks/resurgence-combat-evolved"
             }
-        },		
-		"forums":
-        {
-            "text" : "Forums",
-            "posX" : -90,
-            "posY" : 14,
-			"textOffsetX" : 15,
-            "width" : 98,
-            "height" : 14,
-            "normalTextColor" : -1,
-			"hoverTextColor" : 10027008,
-			"alignment" : "right_center",
-			"texture" : "mainmenu:blankbutton.png",
-            "action" : 
-            {
-                "type" : "openLink",
-				"link" : "http://forum.feed-the-beast.com/forum/"
-            }
-        },				        
+        },
         "quit":
         {
             "text" : "Quit",
