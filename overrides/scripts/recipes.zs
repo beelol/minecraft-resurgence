@@ -1,7 +1,12 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
-recipes.remove(<tconstruct:slime_boots:4>);
+recipes.remove(<tconstruct:rapier>);
+recipes.remove(<extrautils2:lawsword>);
+recipes.remove(<tconstruct:slime_boots:3>);
+recipes.remove(<enderio:item_dark_steel_sword>);
+recipes.remove(<enderio:item_travel_staff>);
+recipes.remove(<extrautils2:lawsword>);
 recipes.remove(<tconstruct:slime_boots:4>);
 recipes.remove(<tconstruct:slime_boots:2>);
 recipes.remove(<tconstruct:slime_boots:1>);
@@ -165,6 +170,7 @@ recipes.remove(<techguns:t1_combat_helmet>);
 recipes.remove(<techguns:handcannon>);
 //Don't touch me!
 //#Add
+recipes.addShaped(<extrautils2:lawsword>, [[null, null, null],[null, null, null], [null, null, null]]);
 recipes.addShaped(<techguns:glider>, [[<techguns:itemshared:90>, <openblocks:generic>, null],[<openblocks:generic>, null, null], [null, null, null]]);
 recipes.addShaped(<openblocks:hang_glider>, [[null, null, null],[<openblocks:generic>, <tconstruct:tough_tool_rod>, <openblocks:generic>], [null, null, null]]);
 recipes.addShaped(<openblocks:generic>, [[<harvestcraft:hardenedleatheritem>, <tconstruct:tough_tool_rod>, null],[<techguns:itemshared:60>, <harvestcraft:hardenedleatheritem>, <tconstruct:tough_tool_rod>], [<techguns:itemshared:60>, <techguns:itemshared:60>, <harvestcraft:hardenedleatheritem>]]);
