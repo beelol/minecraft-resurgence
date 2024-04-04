@@ -1,13 +1,101 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
+
+
+/*
+* ********************************
+* ********************************
+* ********************************
+* ******* REMOVE RECIPES HERE *******
+* ********************************
+* ********************************
+* ********************************
+*/
+
 //#Remove
 
+/*
+*
+*  REMOVE USING STONE FOR THUT'S ELEVATORS
+*
+*/
+recipes.removeShaped(<thuttech:lift>, [[<minecraft:iron_ingot:*>, <minecraft:redstone:*>, <minecraft:iron_ingot:*>], [<minecraft:stone>, <minecraft:iron_ingot:*>, <minecraft:stone>], [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
+
+recipes.removeShapeless(<thuttech:lift>, [[<minecraft:iron_ingot:*>, <minecraft:redstone:*>, <minecraft:iron_ingot:*>], [<minecraft:stone>, <minecraft:iron_ingot:*>, <minecraft:stone>], [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
+
+// craftingTable.removeByName("thuttech:lift");
+// recipes.removeByRecipeName("thuttech:lift");
+
+/*
+*
+* Openblocks Rotating Elevator
+*
+*/
+recipes.remove(<openblocks:elevator_rotating:15>);
+recipes.remove(<openblocks:elevator_rotating:14>);
+recipes.remove(<openblocks:elevator_rotating:13>);
+recipes.remove(<openblocks:elevator_rotating:12>);
+recipes.remove(<openblocks:elevator_rotating:11>);
+recipes.remove(<openblocks:elevator_rotating:10>);
+recipes.remove(<openblocks:elevator_rotating:9>);
+recipes.remove(<openblocks:elevator_rotating:8>);
+recipes.remove(<openblocks:elevator_rotating:7>);
+recipes.remove(<openblocks:elevator_rotating:6>);
+recipes.remove(<openblocks:elevator_rotating:5>);
+recipes.remove(<openblocks:elevator_rotating:4>);
+recipes.remove(<openblocks:elevator_rotating:3>);
+recipes.remove(<openblocks:elevator_rotating:2>);
+recipes.remove(<openblocks:elevator_rotating:1>);
+recipes.remove(<openblocks:elevator_rotating>);
+/*
+*
+* Openblocks Elevator
+*
+*/
+recipes.remove(<openblocks:elevator:15>);
+recipes.remove(<openblocks:elevator:14>);
+recipes.remove(<openblocks:elevator:13>);
+recipes.remove(<openblocks:elevator:12>);
+recipes.remove(<openblocks:elevator:11>);
+recipes.remove(<openblocks:elevator:10>);
+recipes.remove(<openblocks:elevator:9>);
+recipes.remove(<openblocks:elevator:8>);
+recipes.remove(<openblocks:elevator:7>);
+recipes.remove(<openblocks:elevator:6>);
+recipes.remove(<openblocks:elevator:5>);
+recipes.remove(<openblocks:elevator:4>);
+recipes.remove(<openblocks:elevator:3>);
+recipes.remove(<openblocks:elevator:2>);
+recipes.remove(<openblocks:elevator:1>);
+recipes.remove(<openblocks:elevator>);
+// Certus Quartz Basic Tools
+recipes.remove(<appliedenergistics2:certus_quartz_sword>);
+recipes.remove(<appliedenergistics2:certus_quartz_pickaxe>);
+recipes.remove(<appliedenergistics2:certus_quartz_spade>);
+recipes.remove(<appliedenergistics2:certus_quartz_hoe>);
+recipes.remove(<appliedenergistics2:certus_quartz_axe>);
+// Sapphire Basic Tools
+recipes.remove(<projectred-exploration:sapphire_sword>);
+recipes.remove(<projectred-exploration:sapphire_shovel>);
+recipes.remove(<projectred-exploration:sapphire_pickaxe>);
+recipes.remove(<projectred-exploration:sapphire_hoe>);
+recipes.remove(<projectred-exploration:sapphire_axe>);
+// Peridot Basic Tools
+recipes.remove(<projectred-exploration:peridot_sword>);
+recipes.remove(<projectred-exploration:peridot_shovel>);
+recipes.remove(<projectred-exploration:peridot_pickaxe>);
+recipes.remove(<projectred-exploration:peridot_hoe>);
+recipes.remove(<projectred-exploration:peridot_axe>);
+// Ruby Basic Tools
+recipes.remove(<projectred-exploration:ruby_sword>);
+recipes.remove(<projectred-exploration:ruby_shovel>);
+recipes.remove(<projectred-exploration:ruby_pickaxe>);
+recipes.remove(<projectred-exploration:ruby_hoe>);
+recipes.remove(<projectred-exploration:ruby_axe>);
 // Orig recipe name: "tconstruct:smeltery/grout_simple"
 recipes.removeShapeless(<tconstruct:soil> * 2, [<minecraft:clay_ball>, <ore:gravel>, <ore:sand>]);
-
 // Orig recipe name: "tconstruct:smeltery/grout"
 recipes.removeShapeless(<tconstruct:soil> * 8, [<ore:gravel>, <ore:sand>, <ore:gravel>, <ore:sand>, <minecraft:clay>, <ore:sand>, <ore:gravel>, <ore:sand>, <ore:gravel>]);
-
 recipes.remove(<tconstruct:rapier>);
 recipes.remove(<enderio:item_dark_steel_sword>);
 recipes.remove(<enderio:item_travel_staff>);
@@ -175,11 +263,29 @@ recipes.remove(<techguns:t1_combat_chestplate>);
 recipes.remove(<techguns:t1_combat_helmet>);
 recipes.remove(<techguns:handcannon>);
 //Don't touch me!
+
+
+/*
+* ********************************
+* ********************************
+* ********************************
+* ******* ADD RECIPES HERE *******
+* ********************************
+* ********************************
+* ********************************
+*/
+
 //#Add
+
+/*
+* 
+*  ADD USING STEEL FOR THUT'S ELEVATORS
+*
+*/
+recipes.addShaped("custom:thuttech:lift", <thuttech:lift>, [[<minecraft:iron_ingot>, <minecraft:redstone>, <minecraft:iron_ingot>], [<ore:blockSteel>, <minecraft:iron_ingot>, <ore:blockSteel>], [<ore:blockSteel>, <ore:blockSteel>, <ore:blockSteel>]]);
 
 // Orig: "tconstruct:smeltery/grout"
 recipes.addShapeless(<tconstruct:soil>, [<ore:gravel>, <ore:sand>, <ore:gravel>, <ore:sand>, <minecraft:clay>, <ore:sand>, <ore:gravel>, <ore:sand>, <ore:gravel>]);
-
 recipes.addShaped(<techguns:glider>, [[<techguns:itemshared:90>, <openblocks:generic>, null],[<openblocks:generic>, null, null], [null, null, null]]);
 recipes.addShaped(<openblocks:hang_glider>, [[null, null, null],[<openblocks:generic>, <tconstruct:tough_tool_rod>, <openblocks:generic>], [null, null, null]]);
 recipes.addShaped(<openblocks:generic>, [[<harvestcraft:hardenedleatheritem>, <tconstruct:tough_tool_rod>, null],[<techguns:itemshared:60>, <harvestcraft:hardenedleatheritem>, <tconstruct:tough_tool_rod>], [<techguns:itemshared:60>, <techguns:itemshared:60>, <harvestcraft:hardenedleatheritem>]]);
