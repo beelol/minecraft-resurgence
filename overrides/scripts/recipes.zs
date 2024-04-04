@@ -1,7 +1,5 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
-
-
 /*
 * ********************************
 * ********************************
@@ -11,21 +9,17 @@
 * ********************************
 * ********************************
 */
-
 //#Remove
-
+recipes.remove(<xreliquary:alkahestry_tome:1001>);
 /*
 *
 *  REMOVE USING STONE FOR THUT'S ELEVATORS
 *
 */
 recipes.removeShaped(<thuttech:lift>, [[<minecraft:iron_ingot:*>, <minecraft:redstone:*>, <minecraft:iron_ingot:*>], [<minecraft:stone>, <minecraft:iron_ingot:*>, <minecraft:stone>], [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
-
-recipes.removeShapeless(<thuttech:lift>, [[<minecraft:iron_ingot:*>, <minecraft:redstone:*>, <minecraft:iron_ingot:*>], [<minecraft:stone>, <minecraft:iron_ingot:*>, <minecraft:stone>], [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
-
+recipes.removeShapeless(<thuttech:lift>, [<minecraft:iron_ingot:*>, <minecraft:redstone:*>, <minecraft:iron_ingot:*>, <minecraft:stone>, <minecraft:iron_ingot:*>, <minecraft:stone>, <minecraft:stone>, <minecraft:stone>, <minecraft:stone>]);
 // craftingTable.removeByName("thuttech:lift");
 // recipes.removeByRecipeName("thuttech:lift");
-
 /*
 *
 * Openblocks Rotating Elevator
@@ -263,8 +257,6 @@ recipes.remove(<techguns:t1_combat_chestplate>);
 recipes.remove(<techguns:t1_combat_helmet>);
 recipes.remove(<techguns:handcannon>);
 //Don't touch me!
-
-
 /*
 * ********************************
 * ********************************
@@ -274,16 +266,13 @@ recipes.remove(<techguns:handcannon>);
 * ********************************
 * ********************************
 */
-
 //#Add
-
 /*
 * 
 *  ADD USING STEEL FOR THUT'S ELEVATORS
 *
 */
-recipes.addShaped("custom:thuttech:lift", <thuttech:lift>, [[<minecraft:iron_ingot>, <minecraft:redstone>, <minecraft:iron_ingot>], [<ore:blockSteel>, <minecraft:iron_ingot>, <ore:blockSteel>], [<ore:blockSteel>, <ore:blockSteel>, <ore:blockSteel>]]);
-
+recipes.addShaped("custom_thuttech_lift", <thuttech:lift>, [[<minecraft:iron_ingot>, <minecraft:redstone>, <minecraft:iron_ingot>], [<ore:blockSteel>, <minecraft:iron_ingot>, <ore:blockSteel>], [<ore:blockSteel>, <ore:blockSteel>, <ore:blockSteel>]]);
 // Orig: "tconstruct:smeltery/grout"
 recipes.addShapeless(<tconstruct:soil>, [<ore:gravel>, <ore:sand>, <ore:gravel>, <ore:sand>, <minecraft:clay>, <ore:sand>, <ore:gravel>, <ore:sand>, <ore:gravel>]);
 recipes.addShaped(<techguns:glider>, [[<techguns:itemshared:90>, <openblocks:generic>, null],[<openblocks:generic>, null, null], [null, null, null]]);
