@@ -11,8 +11,8 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Resurgence",
-  "version": "0.9",
-  "author": "",
+  "version": "0.1.0",
+  "author": "itaniio",
   "files": [
     {
       "projectID": 74072,
