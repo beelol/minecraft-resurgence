@@ -1,3 +1,6 @@
+import mods.thaumcraft.ArcaneWorkbench;
+import mods.jei.JEI;
+
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 /*
@@ -10,6 +13,31 @@
 * ********************************
 */
 //#Remove
+
+mods.jei.JEI.addDescription(<minecraft:boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+
+mods.jei.JEI.addDescription(<minecraft:spruce_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+
+mods.jei.JEI.addDescription(<minecraft:birch_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+
+mods.jei.JEI.addDescription(<minecraft:acacia_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+
+mods.jei.JEI.addDescription(<minecraft:jungle_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+
+mods.jei.JEI.addDescription(<minecraft:dark_oak_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+
+mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumicaugmentation:material:1>);
+
+recipes.remove(<thaumicaugmentation:material:1>);
+recipes.remove(<minecraft:dark_oak_boat>);
+recipes.remove(<minecraft:boat>);
+recipes.remove(<minecraft:spruce_boat>);
+recipes.remove(<minecraft:birch_boat>);
+recipes.remove(<minecraft:acacia_boat>);
+recipes.remove(<minecraft:jungle_boat>);
+recipes.remove(<minecraft:dark_oak_boat>);
+
+
 recipes.remove(<xreliquary:alkahestry_tome:1001>);
 /*
 *
