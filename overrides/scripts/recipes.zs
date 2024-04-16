@@ -1,6 +1,5 @@
 import mods.thaumcraft.ArcaneWorkbench;
 import mods.jei.JEI;
-
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 /*
@@ -13,21 +12,27 @@ import mods.jei.JEI;
 * ********************************
 */
 //#Remove
-
+recipes.remove(<danknull:danknull_dock>);
+recipes.remove(<danknull:dank_null_panel_5>);
+recipes.remove(<danknull:dank_null_panel_4>);
+recipes.remove(<danknull:dank_null_panel_3>);
+recipes.remove(<danknull:dank_null_panel_2>);
+recipes.remove(<danknull:dank_null_panel_1>);
+recipes.remove(<danknull:dank_null_panel_0>);
+recipes.remove(<danknull:dank_null_6>);
+recipes.remove(<danknull:dank_null_5>);
+recipes.remove(<danknull:dank_null_4>);
+recipes.remove(<danknull:dank_null_3>);
+recipes.remove(<danknull:dank_null_2>);
+recipes.remove(<danknull:dank_null_1>);
+recipes.remove(<danknull:dank_null_0>);
 mods.jei.JEI.addDescription(<minecraft:boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
-
 mods.jei.JEI.addDescription(<minecraft:spruce_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
-
 mods.jei.JEI.addDescription(<minecraft:birch_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
-
 mods.jei.JEI.addDescription(<minecraft:acacia_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
-
 mods.jei.JEI.addDescription(<minecraft:jungle_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
-
 mods.jei.JEI.addDescription(<minecraft:dark_oak_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
-
 mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumicaugmentation:material:1>);
-
 recipes.remove(<thaumicaugmentation:material:1>);
 recipes.remove(<minecraft:dark_oak_boat>);
 recipes.remove(<minecraft:boat>);
@@ -36,8 +41,6 @@ recipes.remove(<minecraft:birch_boat>);
 recipes.remove(<minecraft:acacia_boat>);
 recipes.remove(<minecraft:jungle_boat>);
 recipes.remove(<minecraft:dark_oak_boat>);
-
-
 recipes.remove(<xreliquary:alkahestry_tome:1001>);
 /*
 *
@@ -295,6 +298,7 @@ recipes.remove(<techguns:handcannon>);
 * ********************************
 */
 //#Add
+
 /*
 * 
 *  ADD USING STEEL FOR THUT'S ELEVATORS
