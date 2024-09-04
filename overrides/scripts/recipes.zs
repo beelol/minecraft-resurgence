@@ -34,14 +34,14 @@ mods.jei.JEI.addDescription(<minecraft:jungle_boat>,"Whoops! Can't craft hooshco
 mods.jei.JEI.addDescription(<minecraft:dark_oak_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
 mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumicaugmentation:material:1>);
 recipes.remove(<thaumicaugmentation:material:1>);
-recipes.remove(<minecraft:dark_oak_boat>);
+recipes.remove(<xreliquary:alkahestry_tome:1001>);
+
 recipes.remove(<minecraft:boat>);
 recipes.remove(<minecraft:spruce_boat>);
 recipes.remove(<minecraft:birch_boat>);
 recipes.remove(<minecraft:acacia_boat>);
 recipes.remove(<minecraft:jungle_boat>);
 recipes.remove(<minecraft:dark_oak_boat>);
-recipes.remove(<xreliquary:alkahestry_tome:1001>);
 /*
 *
 *  REMOVE USING STONE FOR THUT'S ELEVATORS
