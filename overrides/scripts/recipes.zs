@@ -26,22 +26,31 @@ import mods.jei.JEI;
 // recipes.remove(<danknull:dank_null_2>);
 // recipes.remove(<danknull:dank_null_1>);
 // recipes.remove(<danknull:dank_null_0>);
-mods.jei.JEI.addDescription(<minecraft:boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
-mods.jei.JEI.addDescription(<minecraft:spruce_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
-mods.jei.JEI.addDescription(<minecraft:birch_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
-mods.jei.JEI.addDescription(<minecraft:acacia_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
-mods.jei.JEI.addDescription(<minecraft:jungle_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
-mods.jei.JEI.addDescription(<minecraft:dark_oak_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+// mods.jei.JEI.addDescription(<minecraft:boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+// mods.jei.JEI.addDescription(<minecraft:spruce_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+// mods.jei.JEI.addDescription(<minecraft:birch_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+// mods.jei.JEI.addDescription(<minecraft:acacia_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+// mods.jei.JEI.addDescription(<minecraft:jungle_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
+// mods.jei.JEI.addDescription(<minecraft:dark_oak_boat>,"Whoops! Can't craft hooshcow's arch-nemesis.");
 mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumicaugmentation:material:1>);
+
 recipes.remove(<thaumicaugmentation:material:1>);
 recipes.remove(<xreliquary:alkahestry_tome:1001>);
 
-recipes.remove(<minecraft:boat>);
-recipes.remove(<minecraft:spruce_boat>);
-recipes.remove(<minecraft:birch_boat>);
-recipes.remove(<minecraft:acacia_boat>);
-recipes.remove(<minecraft:jungle_boat>);
-recipes.remove(<minecraft:dark_oak_boat>);
+
+
+/*
+*
+*  A previously included mod caused crashes on dismount. It has been removed.
+*
+*/
+// recipes.remove(<minecraft:boat>);
+// recipes.remove(<minecraft:spruce_boat>);
+// recipes.remove(<minecraft:birch_boat>);
+// recipes.remove(<minecraft:acacia_boat>);
+// recipes.remove(<minecraft:jungle_boat>);
+// recipes.remove(<minecraft:dark_oak_boat>);
+
 /*
 *
 *  REMOVE USING STONE FOR THUT'S ELEVATORS
