@@ -11,17 +11,12 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "RESURGENCE - COMBAT EVOLVED",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "author": "",
   "files": [
     {
       "projectID": 266491,
       "fileID": 2611426,
-      "required": true
-    },
-    {
-      "projectID": 403676,
-      "fileID": 3098861,
       "required": true
     },
     {
@@ -265,11 +260,6 @@
       "required": true
     },
     {
-      "projectID": 289953,
-      "fileID": 2680269,
-      "required": true
-    },
-    {
       "projectID": 250398,
       "fileID": 3025548,
       "required": true
@@ -337,11 +327,6 @@
     {
       "projectID": 321545,
       "fileID": 2722988,
-      "required": true
-    },
-    {
-      "projectID": 299946,
-      "fileID": 2786697,
       "required": true
     },
     {
@@ -515,6 +500,11 @@
       "required": true
     },
     {
+      "projectID": 274036,
+      "fileID": 2863239,
+      "required": true
+    },
+    {
       "projectID": 224375,
       "fileID": 2712805,
       "required": true
@@ -552,6 +542,11 @@
     {
       "projectID": 291786,
       "fileID": 2701203,
+      "required": true
+    },
+    {
+      "projectID": 403676,
+      "fileID": 3098861,
       "required": true
     },
     {
@@ -675,6 +670,16 @@
       "required": true
     },
     {
+      "projectID": 289953,
+      "fileID": 2680269,
+      "required": true
+    },
+    {
+      "projectID": 309674,
+      "fileID": 3003364,
+      "required": true
+    },
+    {
       "projectID": 301364,
       "fileID": 2609434,
       "required": true
@@ -705,6 +710,11 @@
       "required": true
     },
     {
+      "projectID": 289412,
+      "fileID": 3156637,
+      "required": true
+    },
+    {
       "projectID": 253211,
       "fileID": 2684561,
       "required": true
@@ -732,6 +742,11 @@
     {
       "projectID": 293602,
       "fileID": 2925154,
+      "required": true
+    },
+    {
+      "projectID": 246391,
+      "fileID": 2644652,
       "required": true
     },
     {
@@ -782,11 +797,6 @@
     {
       "projectID": 238403,
       "fileID": 2443194,
-      "required": true
-    },
-    {
-      "projectID": 350196,
-      "fileID": 2980059,
       "required": true
     },
     {

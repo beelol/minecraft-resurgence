@@ -1,0 +1,12 @@
+{
+	x: -5.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "a1686ccd",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}],
+		count: 32L
+	}]
+}

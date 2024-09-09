@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "e0fa63c1",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared 1 3"
+		}]
+	}]
+}

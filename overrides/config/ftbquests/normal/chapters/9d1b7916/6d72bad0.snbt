@@ -1,0 +1,14 @@
+{
+	x: -4.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "f7c92d9b",
+		type: "item",
+		items: [{
+			id: "tconstruct:pick_head",
+			tag: {
+				Material: "flint"
+			}
+		}]
+	}]
+}

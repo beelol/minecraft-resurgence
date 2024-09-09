@@ -1,0 +1,18 @@
+{
+	x: -3.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "bdb726fb",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "enderio:block_alloy",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}]
+	}]
+}
