@@ -30,13 +30,13 @@ steel                                             (tconstruct:molten_steel)     
 xu_evil_metal                                     ([no block])                                                                     = Evil Infused Iron
 xu_enchanted_metal                                ([no block])                                                                     = Enchanted Metal
 xu_demonic_metal                                  ([no block])                                                                     = Molten Demon Metal
+constantan                                        (immersiveengineering:molten_constantan)                                         = Molten Constantan
 enderium                                          (tconstruct:molten_enderium)                                                     = Molten Enderium
 platinum                                          (tconstruct:molten_platinum)                                                     = Molten Platinum
 iridium                                           (tconstruct:molten_iridium)                                                      = Molten Iridium
 mithril                                           (tconstruct:molten_mithril)                                                      = Molten Mithril
 signalum                                          (tconstruct:molten_signalum)                                                     = Molten Signalum
 lumium                                            (tconstruct:molten_lumium)                                                       = Molten Lumium
-constantan                                        (tconstruct:molten_constantan)                                                   = Molten Constantan
 invar                                             (tconstruct:molten_invar)                                                        = Molten Invar
 nickel                                            (tconstruct:molten_nickel)                                                       = Molten Nickel
 tin                                               (tconstruct:molten_tin)                                                          = Molten Tin
@@ -64,6 +64,8 @@ chrome                                            (tconstruct:molten_chrome)    
 advancedalloy                                     (tconstruct:molten_advancedalloy)                                                = Molten Advanced Alloy
 thaumium                                          (pewter:molten_thaumium)                                                         = Molten Thaumium
 voidmetal                                         (pewter:molten_voidmetal)                                                        = Molten Void Metal
+octine                                            (pewter:molten_octine)                                                           = Molten Octine
+syrmorite                                         (pewter:molten_syrmorite)                                                        = Molten Syrmorite
 fluid_molten_aer                                  (thaumicrestoration:block_molten_aer)                                            = Molten Air Infused Thaumium
 fluid_molten_ignis                                (thaumicrestoration:block_molten_ignis)                                          = Molten Fire Infused Thaumium
 fluid_molten_aqua                                 (thaumicrestoration:block_molten_aqua)                                           = Molten Water Infused Thaumium
