@@ -29,8 +29,9 @@ jobs:
       - name: Create GitHub Release
         id: create_release
         uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.AUTH_TOKEN }}  # Correctly use AUTH_TOKEN here
         with:
-          token: ${{ secrets.AUTH_TOKEN }}  # Correctly pass the token as 'token'
           tag_name: "v${{ env.version }}"
           release_name: "MINECRAFT_RESURGENCE_${{ env.version }}"
           draft: false
@@ -38,8 +39,9 @@ jobs:
 
       - name: Upload Release Asset
         uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.AUTH_TOKEN }}  # Correctly use AUTH_TOKEN here
         with:
-          token: ${{ secrets.AUTH_TOKEN }}  # Correctly pass the token as 'token'
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: "./MINECRAFT_RESURGENCE_${{ env.version }}.zip"
           asset_name: "MINECRAFT_RESURGENCE_${{ env.version }}.zip"
