@@ -3,7 +3,7 @@ name: Create Release and Compress Files
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
