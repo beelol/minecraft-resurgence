@@ -18,12 +18,15 @@ fi
 # Determine the operating system
 if [[ "$(uname)" == "Darwin" ]]; then
   # macOS
-  sed -i '' 's/\t/  /g' "$file"    # Convert tabs to 2 spaces
-  sed -i '' 's/\r$//' "$file"      # Remove carriage returns to ensure Unix-style line endings
+  sed -i '' 's/\t/  /g' "$file"       # Convert tabs to 2 spaces
+  sed -i '' 's/\r$//' "$file"         # Remove carriage returns to ensure Unix-style line endings
+  sed -i '' 's/[[:space:]]*$//' "$file" # Remove trailing whitespace (spaces or tabs)
 else
   # Linux or other Unix-like systems
-  sed -i 's/\t/  /g' "$file"       # Convert tabs to 2 spaces
-  sed -i 's/\r$//' "$file"         # Remove carriage returns to ensure Unix-style line endings
+  sed -i 's/\t/  /g' "$file"          # Convert tabs to 2 spaces
+  sed -i 's/\r$//' "$file"            # Remove carriage returns to ensure Unix-style line endings
+  sed -i 's/[[:space:]]*$//' "$file"  # Remove trailing whitespace (spaces or tabs)
 fi
+
 
 echo "Formatting standardized for $file."
