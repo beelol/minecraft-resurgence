@@ -12,6 +12,35 @@ import mods.jei.JEI;
 * ********************************
 */
 //#Remove
+
+
+/*
+*
+* REMOVE EXTRAUTILS GENERATOR RECIPES HERE
+*
+*/
+recipes.removeByRecipeName("extrautils2:generator_generator_pink");
+recipes.removeByRecipeName("extrautils2:generator_generator_ender");
+recipes.removeByRecipeName("extrautils2:generator_generator_tnt");
+recipes.removeByRecipeName("extrautils2:generator_survivalist");
+recipes.removeByRecipeName("extrautils2:generator_generator_dragonsbreath");
+recipes.removeByRecipeName("extrautils2:generator_generator_potion");
+recipes.removeByRecipeName("extrautils2:generator_generator_death");
+recipes.removeByRecipeName("extrautils2:generator_generator_slime");
+recipes.removeByRecipeName("extrautils2:generator_generator_lava");
+recipes.removeByRecipeName("extrautils2:generator_generator_netherstar");
+recipes.removeByRecipeName("extrautils2:generator_generator_overclock");
+recipes.removeByRecipeName("extrautils2:generator_generator_ice");
+recipes.removeByRecipeName("extrautils2:generator_furnace");
+recipes.removeByRecipeName("extrautils2:generator_generator_redstone");
+recipes.removeByRecipeName("extrautils2:generator_generator_culinary");
+recipes.removeByRecipeName("extrautils2:generator_generator_enchant");
+/*
+*
+* EXTRAUTILS GENERATOR END
+*
+*/
+
 recipes.remove(<extrautils2:goldenlasso>);
 // recipes.remove(<projectred-exploration:backpack:15>);
 // recipes.remove(<projectred-exploration:backpack:14>);
@@ -59,6 +88,7 @@ recipes.remove(<techguns:basicmachine:2>);
 recipes.remove(<enderio:block_simple_stirling_generator>);
 recipes.remove(<techguns:simplemachine:11>);
 recipes.remove(<enderio:block_simple_furnace>);
+
 recipes.remove(<campfire:campfire>);
 
 recipes.addShaped(<campfire:campfire>, [
@@ -67,11 +97,8 @@ recipes.addShaped(<campfire:campfire>, [
   [<ore:logWood>, <ore:coal>, <ore:logWood>]
 ]);
 
-recipes.addShaped(<toughasnails:campfire>, [
-  [null, <ore:stickWood>, null],
-  [<ore:stickWood>, <ore:coal>, <ore:stickWood>],
-  [<ore:logWood>, <ore:coal>, <ore:logWood>]
-]);
+recipes.remove(<toughasnails:campfire>);
+mods.jei.JEI.hide(<toughasnails:campfire>);
 
 mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumicaugmentation:material:1>);
 
