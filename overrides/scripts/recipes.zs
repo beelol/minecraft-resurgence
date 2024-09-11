@@ -86,7 +86,7 @@ recipes.remove(<techguns:basicmachine>);
 recipes.remove(<techguns:basicmachine:1>);
 recipes.remove(<techguns:basicmachine:2>);
 recipes.remove(<enderio:block_simple_stirling_generator>);
-recipes.remove(<techguns:simplemachine:11>);          
+recipes.remove(<techguns:simplemachine:11>);                   
 recipes.remove(<enderio:block_simple_furnace>);
 
 recipes.remove(<campfire:campfire>);            
