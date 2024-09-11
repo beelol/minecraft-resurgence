@@ -1,18 +1,18 @@
 [
   {
     "content": "minecraft:gold_nugget",
-    "unitWorth": 100,
+    "unitWorth": 600,
     "weight": 100
   },
   {
     "content": "minecraft:gold_ingot",
-    "unitWorth": 900,
-    "weight": 100
+    "unitWorth": 1900,
+    "weight": 5
   },
   {
     "content": "minecraft:diamond",
     "unitWorth": 2400,
-    "weight": 10
+    "weight": 5
   },
   {
     "content": "minecraft:iron_sword",
@@ -53,7 +53,7 @@
   },
   {
     "content": "minecraft:golden_chestplate",
-    "unitWorth": 1200,
+    "unitWorth": 2200,
     "weight": 5,
     "amount": {
       "min": 1,
@@ -64,7 +64,186 @@
     "content": "minecraft:bow",
     "unitWorth": 1300,
     "weight": 10,
-    "nbt_data": "{ench:[{id:48,lvl:2}]}",
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:cactus",
+    "unitWorth": 1500,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:ender_pearl",
+    "unitWorth": 2600,
+    "weight": 1,
+    "amount": {
+      "min": 1,
+      "max": 4
+    }
+  },
+  {
+    "content": "minecraft:nether_wart",
+    "unitWorth": 2600,
+    "weight": 1,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:reeds",
+    "unitWorth": 1500,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:clock",
+    "unitWorth": 1600,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:compass",
+    "unitWorth": 1600,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:ender_eye",
+    "unitWorth": 400,
+    "weight": 1,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:emerald",
+    "unitWorth": 3200,
+    "weight": 1,
+    "amount": {
+      "min": 3,
+      "max": 9
+    }
+  },
+  {
+    "content": "minecraft:fireworks",
+    "unitWorth": 1200,
+    "weight": 15,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:totem_of_undying",
+    "unitWorth": 5000,
+    "weight": 1,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "armorunder:itemAutoregLining",
+    "unitWorth": 3200,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:clay",
+    "unitWorth": 2200,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 64
+    }
+  },
+  {
+    "content": "harvestcraft:foodFriedchicken",
+    "unitWorth": 1200,
+    "weight": 20,
+    "amount": {
+      "min": 1,
+      "max": 12
+    }
+  },
+  {
+    "content": "harvestcraft:foodEpicbacon",
+    "unitWorth": 1200,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 12
+    }
+  },
+  {
+    "content": "thermalfoundation:plateInvar",
+    "unitWorth": 4500,
+    "weight": 1,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:slime",
+    "unitWorth": 2200,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 3
+    }
+  },
+  {
+    "content": "minecraft:enchanting_table",
+    "unitWorth": 5200,
+    "weight": 1,
+    "amount": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
+    "content": "minecraft:redstone_block",
+    "unitWorth": 1900,
+    "weight": 10,
+    "amount": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "content": "minecraft:snow",
+    "unitWorth": 2200,
+    "weight": 5,
+    "amount": {
+      "min": 1,
+      "max": 3
+    }
+  },
+  {
+    "content": "minecraft:blaze_rod",
+    "unitWorth": 3200,
+    "weight": 1,
     "amount": {
       "min": 1,
       "max": 1
