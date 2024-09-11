@@ -86,10 +86,10 @@ recipes.remove(<techguns:basicmachine>);
 recipes.remove(<techguns:basicmachine:1>);
 recipes.remove(<techguns:basicmachine:2>);
 recipes.remove(<enderio:block_simple_stirling_generator>);
-recipes.remove(<techguns:simplemachine:11>);                     
+recipes.remove(<techguns:simplemachine:11>);
 recipes.remove(<enderio:block_simple_furnace>);
 
-recipes.remove(<campfire:campfire>);            
+recipes.remove(<campfire:campfire>);
 
 recipes.addShaped(<campfire:campfire>, [
   [null, <ore:stickWood>, null],
@@ -361,7 +361,7 @@ recipes.remove(<techguns:handcannon>);
 */
 //#Add
 /*
-* 
+*
 *  ADD USING STEEL FOR THUT'S ELEVATORS
 *
 */
