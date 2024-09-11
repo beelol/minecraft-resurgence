@@ -67,6 +67,12 @@ recipes.addShaped(<campfire:campfire>, [
   [<ore:logWood>, <ore:coal>, <ore:logWood>]
 ]);
 
+recipes.addShaped(<toughasnails:campfire>, [
+  [null, <ore:stickWood>, null],
+  [<ore:stickWood>, <ore:coal>, <ore:stickWood>],
+  [<ore:logWood>, <ore:coal>, <ore:logWood>]
+]);
+
 mods.thaumcraft.ArcaneWorkbench.removeRecipe(<thaumicaugmentation:material:1>);
 
 recipes.remove(<thaumicaugmentation:material:1>);
