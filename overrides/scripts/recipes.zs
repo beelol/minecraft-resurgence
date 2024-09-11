@@ -89,7 +89,7 @@ recipes.remove(<enderio:block_simple_stirling_generator>);
 recipes.remove(<techguns:simplemachine:11>);          
 recipes.remove(<enderio:block_simple_furnace>);
 
-recipes.remove(<campfire:campfire>);
+recipes.remove(<campfire:campfire>);            
 
 recipes.addShaped(<campfire:campfire>, [
   [null, <ore:stickWood>, null],
