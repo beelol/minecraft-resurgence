@@ -24,7 +24,7 @@ jobs:
 
       - name: Compress files
         run: |
-          zip -r "MINECRAFT_RESURGENCE_${{ env.version }}.zip" . -x ".git*" ".github/*" "*.gitignore"
+          zip -r "MINECRAFT_RESURGENCE_${{ env.version }}.zip" manifest.json modlist.html overrides
         
       - name: Create GitHub Release
         id: create_release
