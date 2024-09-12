@@ -1,7 +1,10 @@
 import mods.jei.JEI;
 
-// Remove
-
+/*
+ *
+ * Remove Planes
+ *
+*/
 recipes.removeByRecipeName("simpleplanes:acacia_large_plane");
 recipes.removeByRecipeName("simpleplanes:dark_oak_large_plane");
 
@@ -23,24 +26,55 @@ recipes.removeByRecipeName("simpleplanes:oak_plane");
 recipes.removeByRecipeName("simpleplanes:dark_oak_mega_plane");
 recipes.removeByRecipeName("simpleplanes:birch_large_plane");
 recipes.removeByRecipeName("simpleplanes:acacia_plane");
+/*
+ *
+ * End Remove Planes
+ *
+*/
 
-// Remove Helicopters
+
+/*
+ *
+ * Remove Helicopters
+ *
+*/
 recipes.removeByRecipeName("simpleplanes:acacia_helicopter");
 recipes.removeByRecipeName("simpleplanes:birch_helicopter");
 recipes.removeByRecipeName("simpleplanes:spruce_helicopter");
 recipes.removeByRecipeName("simpleplanes:oak_helicopter");
 recipes.removeByRecipeName("simpleplanes:dark_oak_helicopter");
 recipes.removeByRecipeName("simpleplanes:jungle_helicopter");
+/*
+ *
+ * End Remove Helicopters
+ *
+*/
+
+
+
+/*
+ *
+ * Remove Upgrades
+ *
+*/
+recipes.removeByRecipeName("simpleplanes:upgrades/furnace_engine");
+recipes.removeByRecipeName("simpleplanes:upgrades/floaty_bedding");
+recipes.removeByRecipeName("simpleplanes:upgrades/propeller");
+recipes.removeByRecipeName("simpleplanes:upgrades/folding");
+recipes.removeByRecipeName("simpleplanes:upgrades/shooter");
+
 
 // recipes.removeByRecipeName("simpleplanes:upgrades/sprayer");
 // recipes.removeByRecipeName("simpleplanes:upgrades/booster");
 // recipes.removeByRecipeName("simpleplanes:upgrades/healing");
 // recipes.removeByRecipeName("simpleplanes:upgrades/healing_enchanted");
+/*
+ *
+ * End Remove Upgrades
+ *
+*/
 
-recipes.removeByRecipeName("simpleplanes:upgrades/furnace_engine");
-recipes.removeByRecipeName("simpleplanes:upgrades/floaty_bedding");
-recipes.removeByRecipeName("simpleplanes:upgrades/propeller");
-recipes.removeByRecipeName("simpleplanes:upgrades/folding");
+
 
 /*
  *
@@ -180,6 +214,8 @@ recipes.addShaped(<simpleplanes:floaty_bedding>, [[<forestry:crafting_material:3
 recipes.addShaped(<simpleplanes:propeller>, [[<immersiveengineering:material:3>, null, <immersiveengineering:material:3>],[null, <thermalfoundation:material:290>, null], [<immersiveengineering:material:3>, null, <immersiveengineering:material:3>]]);
 
 recipes.addShaped(<simpleplanes:folding>, [[<minecraft:elytra>, <enderio:item_soul_vial>, null],[<minecraft:piston>, <ironbackpacks:backpack>, <minecraft:piston>], [null, <thermalexpansion:frame>, null]]);
+
+recipes.addShaped(<simpleplanes:shooter>, [[<enderio:item_alloy_ingot:3>, <techguns:itemshared:18>, <enderio:item_alloy_ingot:3>],[<techguns:itemshared:40>, <techguns:itemshared:34>, <techguns:itemshared:44>], [<thermalfoundation:material:288>, <thermalexpansion:frame>, <thermalfoundation:material:288>]]);
 /*
  *
  * End Add Upgrades
@@ -189,7 +225,7 @@ recipes.addShaped(<simpleplanes:folding>, [[<minecraft:elytra>, <enderio:item_so
 
 /*
  *
- * Add Helicopter
+ * Add Helicopters
  *
 */
 recipes.addShaped(<simpleplanes:oak_helicopter>, [[<enderio:item_basic_capacitor:1>, <simpleplanes:propeller>, <projectred-core:resource_item:410>],[<simpleplanes:propeller>, <thermalfoundation:glass_alloy:2>, <simpleplanes:furnace_engine>], [<techguns:itemshared:66>, <techguns:itemshared:53>, <minecraft:wooden_slab>]]);
@@ -226,11 +262,16 @@ recipes.addShaped(<simpleplanes:jungle_helicopter>, [
 
 /*
  *
- * End Add Helicopter
+ * End Add Helicopters
  *
 */
 
-// Hiding no recipe planes
+
+/*
+ *
+ * Hide no recipe planes
+ *
+*/
 mods.jei.JEI.hide(<simpleplanes:ft_citrus_mega_plane>);
 mods.jei.JEI.hide(<simpleplanes:ft_citrus_helicopter>);
 mods.jei.JEI.hide(<simpleplanes:ft_citrus_large_plane>);
@@ -376,3 +417,8 @@ mods.jei.JEI.hide(<simpleplanes:crimson_mega_plane>);
 mods.jei.JEI.hide(<simpleplanes:crimson_helicopter>);
 mods.jei.JEI.hide(<simpleplanes:crimson_plane>);
 mods.jei.JEI.hide(<simpleplanes:crimson_large_plane>);
+/*
+ *
+ * End Hide no recipe planes
+ *
+*/
