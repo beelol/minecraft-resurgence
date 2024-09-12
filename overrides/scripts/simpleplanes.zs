@@ -32,7 +32,6 @@ recipes.removeByRecipeName("simpleplanes:acacia_plane");
  *
 */
 
-
 /*
  *
  * Remove Helicopters
@@ -49,8 +48,6 @@ recipes.removeByRecipeName("simpleplanes:jungle_helicopter");
  * End Remove Helicopters
  *
 */
-
-
 
 /*
  *
@@ -73,8 +70,6 @@ recipes.removeByRecipeName("simpleplanes:upgrades/shooter");
  * End Remove Upgrades
  *
 */
-
-
 
 /*
  *
