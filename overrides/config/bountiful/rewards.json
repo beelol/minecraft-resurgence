@@ -1,7 +1,7 @@
 [
   {
     "content": "minecraft:gold_nugget",
-    "unitWorth": 600,
+    "unitWorth": 900,
     "weight": 100
   },
   {
@@ -160,7 +160,7 @@
     }
   },
   {
-    "content": "armorunder:itemAutoregLining",
+    "content": "armorunder:auto_chestplate_liner",
     "unitWorth": 3200,
     "weight": 5,
     "amount": {
@@ -178,7 +178,7 @@
     }
   },
   {
-    "content": "harvestcraft:foodFriedchicken",
+    "content": "harvestcraft:friedchickenitem",
     "unitWorth": 1200,
     "weight": 20,
     "amount": {
@@ -187,7 +187,7 @@
     }
   },
   {
-    "content": "harvestcraft:foodEpicbacon",
+    "content": "harvestcraft:epicbaconitem",
     "unitWorth": 1200,
     "weight": 10,
     "amount": {
@@ -196,7 +196,7 @@
     }
   },
   {
-    "content": "thermalfoundation:plateInvar",
+    "content": "thermalfoundation:material:354",
     "unitWorth": 4500,
     "weight": 1,
     "amount": {
