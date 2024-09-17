@@ -113,7 +113,7 @@
       "min": 1,
       "max": 16
     },
-    "unitWorth": 50,
+    "unitWorth": 65,
     "weight": 100
   },
   {
@@ -208,48 +208,300 @@
     "nbt_data": "{Potion: \"minecraft:healing\"}"
   },
   {
-    "content": "entity:minecraft:creeper",
+    "content": "thaumcraft:crystal_essence",
     "amount": {
       "min": 1,
-      "max": 6
+      "max": 12
     },
-    "unitWorth": 190,
-    "weight": 250
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:ender_eye",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 1600,
+    "weight": 100
+  },
+  {
+    "content": "camera:camera",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 1900,
+    "weight": 100
+  },
+  {
+    "content": "extrautils2:magicapple",
+    "amount": {
+      "min": 1,
+      "max": 7
+    },
+    "unitWorth": 500,
+    "weight": 100
+  },
+  {
+    "content": "mowziesmobs:barakoa_mask_fear",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 3000,
+    "weight": 100
+  },
+  {
+    "content": "entity:mowziesmobs:foliaath",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 300,
+    "weight": 100
+  },
+  {
+    "content": "entity:mowziesmobs:frostmaw",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 5000,
+    "weight": 100
+  },
+  {
+    "content": "entity:mowziesmobs:lantern",
+    "amount": {
+      "min": 1,
+      "max": 32
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "entity:mowziesmobs:naga",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 350,
+    "weight": 100
   },
   {
     "content": "entity:minecraft:enderman",
     "amount": {
-      "min": 1,
-      "max": 6
+      "min": 6,
+      "max": 12
     },
-    "unitWorth": 260,
-    "weight": 250
+    "unitWorth": 300,
+    "weight": 100
   },
   {
-    "content": "entity:minecraft:villager",
+    "content": "entity:minecraft:ghast",
     "amount": {
-      "min": 1,
-      "max": 6
-    },
-    "unitWorth": 250,
-    "weight": 250
-  },
-  {
-    "content": "entity:minecraft:silverfish",
-    "amount": {
-      "min": 1,
-      "max": 6
+      "min": 2,
+      "max": 7
     },
     "unitWorth": 500,
-    "weight": 250
+    "weight": 100
   },
   {
-    "content": "entity:minecraft:witch",
+    "content": "entity:minecraft:slime",
     "amount": {
       "min": 1,
-      "max": 9
+      "max": 16
+    },
+    "unitWorth": 200,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:record_mellohi",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 1900,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:bed",
+    "amount": {
+      "min": 1,
+      "max": 4
     },
     "unitWorth": 500,
-    "weight": 250
+    "weight": 100
+  },
+  {
+    "content": "minecraft:skull",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 1900,
+    "weight": 100
+  },
+  {
+    "content": "roots:baffle_cap_mushroom",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 1500,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:gunpowder",
+    "amount": {
+      "min": 1,
+      "max": 22
+    },
+    "unitWorth": 120,
+    "weight": 100
+  },
+  {
+    "content": "toughasnails:canteen",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 600,
+    "weight": 100
+  },
+  {
+    "content": "tinker_io:solidfuel",
+    "amount": {
+      "min": 3,
+      "max": 3
+    },
+    "unitWorth": 1900,
+    "weight": 100
+  },
+  {
+    "content": "thebetweenlands:angry_pebble",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 700,
+    "weight": 100
+  },
+  {
+    "content": "thebetweenlands:present",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 1000,
+    "weight": 100
+  },
+  {
+    "content": "thebetweenlands:octine_ingot",
+    "amount": {
+      "min": 3,
+      "max": 16
+    },
+    "unitWorth": 700,
+    "weight": 100
+  },
+  {
+    "content": "harvestcraft:friedchickenitem",
+    "amount": {
+      "min": 5,
+      "max": 5
+    },
+    "unitWorth": 500,
+    "weight": 100
+  },
+  {
+    "content": "harvestcraft:lemonchickenitem",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 500,
+    "weight": 100
+  },
+  {
+    "content": "harvestcraft:footlongitem",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 500,
+    "weight": 100
+  },
+  {
+    "content": "mysticalworld:pelt",
+    "amount": {
+      "min": 1,
+      "max": 5
+    },
+    "unitWorth": 500,
+    "weight": 100
+  },
+  {
+    "content": "ftbquests:book",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 1500,
+    "weight": 100
+  },
+  {
+    "content": "techguns:basicore",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 1000,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:mycelium",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 750,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:enchanting_table",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 2000,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:cake",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 750,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:magma_cream",
+    "amount": {
+      "min": 1,
+      "max": 6
+    },
+    "unitWorth": 750,
+    "weight": 100
+  },
+  {
+    "content": "thebetweenlands:glowing_goop",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 550,
+    "weight": 100
   }
 ]
