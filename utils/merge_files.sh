@@ -24,7 +24,7 @@ fi
 # Merge the files, sort the content, and remove duplicates
 sort -u "$file1" "$file2" -o "$file1"
 
-# Call the merge_and_format script to format the merged file
-./merge_and_format.sh "$file1"
+# Call the format_file script to format the merged file
+./format_file.sh "$file1"
 
 echo "Files have been merged, duplicates removed, and formatting standardized. The unique content is now in $file1."
