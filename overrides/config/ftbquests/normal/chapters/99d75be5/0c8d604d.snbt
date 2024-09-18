@@ -1,0 +1,13 @@
+{
+	x: -8.5d,
+	y: 0.0d,
+	text: [
+		"Where is their survival instinct? What if I went for something a little smarter..."
+	],
+	tasks: [{
+		uid: "7941b427",
+		type: "kill",
+		entity: "minecraft:zombie",
+		value: 1L
+	}]
+}

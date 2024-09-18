@@ -2,6 +2,7 @@ import mods.thaumcraft.ArcaneWorkbench;
 import mods.jei.JEI;
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
+
 /*
 * ********************************
 * ********************************
@@ -11,7 +12,25 @@ import mods.jei.JEI;
 * ********************************
 * ********************************
 */
-//#Remove
+// Betweenlands obsidian boat
+mods.jei.JEI.hide(<netherex:obsidian_boat>);
+recipes.removeByRecipeName("netherex:obsidian_boat");
+
+// OC Nanomachines recipe
+recipes.removeByRecipeName("opencomputers:tool61");
+// OC Nanomachines id
+mods.jei.JEI.hide(<opencomputers:tool:5>);
+
+recipes.removeByRecipeName("xreliquary:items/handgun");
+mods.jei.JEI.hide(<xreliquary:handgun>);
+
+/*
+*
+* Thermal Expansion Pulverizer: Require Invar Change
+*
+*/
+recipes.remove(<thermalexpansion:machine:1>);
+recipes.addShaped(<thermalexpansion:machine:1>, [[null, <minecraft:piston>, null],[<minecraft:flint>, <thermalexpansion:frame>, <minecraft:flint>], [<thermalfoundation:material:290>, <thermalfoundation:material:513>, <thermalfoundation:material:290>]]);
 
 
 /*
@@ -42,23 +61,6 @@ recipes.removeByRecipeName("extrautils2:generator_generator_enchant");
 */
 
 recipes.remove(<extrautils2:goldenlasso>);
-// recipes.remove(<projectred-exploration:backpack:15>);
-// recipes.remove(<projectred-exploration:backpack:14>);
-// recipes.remove(<projectred-exploration:backpack:12>);
-// recipes.remove(<projectred-exploration:backpack:13>);
-// recipes.remove(<projectred-exploration:backpack:1>);
-// recipes.remove(<projectred-exploration:backpack>);
-// recipes.remove(<projectred-exploration:backpack:6>);
-// recipes.remove(<projectred-exploration:backpack:8>);
-// recipes.remove(<projectred-exploration:backpack:9>);
-// recipes.remove(<projectred-exploration:backpack:11>);
-// recipes.remove(<projectred-exploration:backpack:5>);
-// recipes.remove(<projectred-exploration:backpack:3>);
-// recipes.remove(<projectred-exploration:backpack:2>);
-// recipes.remove(<projectred-exploration:backpack:4>);
-// recipes.remove(<projectred-exploration:backpack:7>);
-// recipes.remove(<projectred-exploration:backpack:5>);
-
 mods.jei.JEI.hide(<extrautils2:goldenlasso>);
 mods.jei.JEI.hide(<projectred-exploration:backpack:15>);
 mods.jei.JEI.hide(<projectred-exploration:backpack:14>);

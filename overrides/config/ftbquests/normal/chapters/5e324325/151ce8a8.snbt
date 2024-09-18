@@ -1,0 +1,19 @@
+{
+	title: "I'm getting smarter...",
+	x: -6.0d,
+	y: 2.0d,
+	text: [
+		"Their knowledge and experiences... I feel it too..."
+	],
+	tasks: [{
+		uid: "f9188fdc",
+		type: "xp",
+		value: 30L,
+		points: false
+	}],
+	rewards: [{
+		uid: "636a8eeb",
+		type: "item",
+		item: "minecraft:book"
+	}]
+}

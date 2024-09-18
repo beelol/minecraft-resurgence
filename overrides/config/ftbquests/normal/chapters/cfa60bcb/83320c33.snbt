@@ -1,0 +1,14 @@
+{
+	title: "Maybe I could ask them?",
+	x: -12.5d,
+	y: 1.0d,
+	text: [
+		"Cyberdemons? well I mean... I am looking for cybernetic parts..."
+	],
+	tasks: [{
+		uid: "8bfd2b02",
+		type: "kill",
+		entity: "techguns:cyberdemon",
+		value: 1L
+	}]
+}

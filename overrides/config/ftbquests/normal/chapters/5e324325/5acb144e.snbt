@@ -1,0 +1,15 @@
+{
+	title: "I'm missing one ingredient...",
+	x: -7.5d,
+	y: 0.0d,
+	text: [
+		"I need to better understand their soul the powers it holds..."
+	],
+	tasks: [{
+		uid: "e50fcff1",
+		type: "item",
+		items: [{
+			item: "enderio:block_soul_binder"
+		}]
+	}]
+}

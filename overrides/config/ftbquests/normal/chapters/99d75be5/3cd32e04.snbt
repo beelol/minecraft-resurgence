@@ -1,0 +1,19 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	text: [
+		"How many more are left... Surely word has spread... My unspeakable acts can't go unpunished forever... I hope they do..."
+	],
+	optional: true,
+	tasks: [{
+		uid: "0a86acaa",
+		type: "stat",
+		stat: "stat.playerKills",
+		value: 20
+	}],
+	rewards: [{
+		uid: "08e83276",
+		type: "item",
+		item: "thaumcraft:flesh_block"
+	}]
+}

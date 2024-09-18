@@ -1,0 +1,15 @@
+{
+	title: "Cybernetic parts!",
+	x: -11.5d,
+	y: 1.5d,
+	text: [
+		"I need more but this is a start..."
+	],
+	tasks: [{
+		uid: "c1c07975",
+		type: "item",
+		items: [{
+			item: "techguns:itemshared 1 69"
+		}]
+	}]
+}

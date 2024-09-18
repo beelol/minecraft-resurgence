@@ -1,0 +1,19 @@
+{
+	x: -6.5d,
+	y: 0.0d,
+	text: [
+		"Zombies get old fast... I hardly even feel anything... I can't... but maybe just this one time...."
+	],
+	optional: true,
+	tasks: [{
+		uid: "17c57cba",
+		type: "stat",
+		stat: "stat.playerKills",
+		value: 1
+	}],
+	rewards: [{
+		uid: "53b838b6",
+		type: "item",
+		item: "thaumcraft:flesh_block"
+	}]
+}

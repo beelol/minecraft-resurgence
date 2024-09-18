@@ -1,0 +1,13 @@
+{
+	title: "Play: ANY music disc",
+	x: -4.5d,
+	y: 3.5d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "62e8edd9",
+		type: "stat",
+		icon: "minecraft:noteblock",
+		stat: "stat.recordPlayed",
+		value: 1
+	}]
+}

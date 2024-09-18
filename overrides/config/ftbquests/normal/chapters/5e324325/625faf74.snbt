@@ -1,0 +1,14 @@
+{
+	title: "Something tells me these things are important...",
+	x: -10.5d,
+	y: 0.0d,
+	text: [
+		"In the rain or when I see one they seem to be able to move interdimensionally..."
+	],
+	tasks: [{
+		uid: "5c6639c2",
+		type: "kill",
+		entity: "minecraft:enderman",
+		value: 10L
+	}]
+}

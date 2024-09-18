@@ -1,0 +1,22 @@
+{
+	title: "Rockets!",
+	x: -5.0d,
+	y: -1.5d,
+	text: [
+		"I have a craving for destruction.. more than any ordinary tool can cause..."
+	],
+	tasks: [{
+		uid: "6e518ac4",
+		type: "item",
+		items: [{
+			id: "techguns:rocketlauncher",
+			tag: {
+				ammo: 1s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

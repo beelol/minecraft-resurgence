@@ -1,0 +1,15 @@
+{
+	title: "So I started blasting...",
+	x: -12.5d,
+	y: -1.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "ee252c47",
+		type: "item",
+		items: [{
+			item: "techguns:simplemachine 1 11"
+		}]
+	}]
+}

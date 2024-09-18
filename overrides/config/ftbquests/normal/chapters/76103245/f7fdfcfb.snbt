@@ -1,0 +1,30 @@
+{
+	title: "Now that's much better...",
+	x: -0.5d,
+	y: 0.0d,
+	text: [
+		"Cool? Toasty? Ahh finally I know what true comfort feels like..."
+	],
+	hide_dependency_lines: true,
+	hide: true,
+	hide_text_until_complete: true,
+	optional: true,
+	tasks: [{
+		uid: "1594e36c",
+		type: "item",
+		items: [{
+			item: "armorunder:auto_chestplate_liner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f09cfdf7",
+		type: "item",
+		items: [{
+			item: "armorunder:auto_leggings_liner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

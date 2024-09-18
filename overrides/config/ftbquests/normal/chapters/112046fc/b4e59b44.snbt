@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "fa77880c",
+		type: "item",
+		items: [{
+			item: "thebetweenlands:stuck_in_the_mud"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

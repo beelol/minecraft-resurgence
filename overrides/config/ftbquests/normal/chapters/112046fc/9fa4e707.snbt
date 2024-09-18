@@ -1,0 +1,14 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "9262104c",
+		type: "item",
+		items: [{
+			item: "thebetweenlands:hag_dance"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

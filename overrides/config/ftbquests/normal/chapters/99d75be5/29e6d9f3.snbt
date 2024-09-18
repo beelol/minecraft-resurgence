@@ -1,0 +1,19 @@
+{
+	x: -4.5d,
+	y: 0.0d,
+	text: [
+		"Maybe this is just who I am? An abomination... No... It was only one time..."
+	],
+	optional: true,
+	tasks: [{
+		uid: "8bfad7bf",
+		type: "stat",
+		stat: "stat.playerKills",
+		value: 5
+	}],
+	rewards: [{
+		uid: "63ad7166",
+		type: "item",
+		item: "thaumcraft:flesh_block"
+	}]
+}

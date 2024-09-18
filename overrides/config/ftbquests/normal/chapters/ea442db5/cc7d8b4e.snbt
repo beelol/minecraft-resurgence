@@ -1,0 +1,18 @@
+{
+	icon: {
+		id: "mowziesmobs:spawn_egg",
+		tag: {
+			EntityTag: {
+				id: "mowziesmobs:foliaath"
+			}
+		}
+	},
+	x: -6.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "284c6767",
+		type: "kill",
+		entity: "mowziesmobs:baby_foliaath",
+		value: 1L
+	}]
+}

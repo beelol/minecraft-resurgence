@@ -1,0 +1,21 @@
+{
+	title: "How can I tell the temperature...",
+	x: -9.0d,
+	y: 2.0d,
+	text: [
+		"I've heard of clocks and compass's but maybe I can make something for the temperate?"
+	],
+	optional: true,
+	tasks: [{
+		uid: "ace908f0",
+		type: "item",
+		items: [{
+			item: "toughasnails:thermometer"
+		}]
+	}],
+	rewards: [{
+		uid: "1b0a77f6",
+		type: "item",
+		item: "harvestcraft:friedchickenitem"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "e3dd01e3",
+		type: "item",
+		items: [{
+			item: "minecraft:beetroot_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "2839dfc6",
+		type: "item",
+		item: "minecraft:beetroot"
+	}]
+}

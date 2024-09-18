@@ -1,0 +1,20 @@
+{
+	title: "I help you, you help me?",
+	icon: "minecraft:writable_book",
+	x: -12.0d,
+	y: 1.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "2fe6bd97",
+		type: "stat",
+		stat: "stat.bountiesCompleted",
+		value: 1
+	}],
+	rewards: [{
+		uid: "b3e3f7d6",
+		type: "item",
+		item: "minecraft:ender_eye"
+	}]
+}

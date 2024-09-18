@@ -1,0 +1,15 @@
+{
+	title: "I could weaponize them...",
+	x: -7.5d,
+	y: 1.5d,
+	text: [
+		"What if I use them for their resources?"
+	],
+	tasks: [{
+		uid: "f1fd4f6a",
+		type: "item",
+		items: [{
+			item: "enderio:block_powered_spawner"
+		}]
+	}]
+}

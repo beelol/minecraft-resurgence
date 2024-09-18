@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 3.5d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "17cdbd89",
+		type: "advancement",
+		title: "Playlist!",
+		icon: "thebetweenlands:wandering_wisps",
+		advancement: "Playlist!",
+		criterion: ""
+	}],
+	rewards: [{
+		uid: "cb88b338",
+		type: "toast",
+		title: "Discord Role Aqcuired! *Easter egg*",
+		description: "DM Hooshcow a with proof of this achievement!"
+	}]
+}

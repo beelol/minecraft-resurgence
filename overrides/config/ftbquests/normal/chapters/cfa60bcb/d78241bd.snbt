@@ -1,0 +1,15 @@
+{
+	title: "Elastic man!",
+	x: -10.5d,
+	y: -1.0d,
+	text: [
+		"I need some rubber if i'm going to start meddling with more tools and hardware..."
+	],
+	tasks: [{
+		uid: "8072f4f3",
+		type: "item",
+		items: [{
+			item: "techguns:basicmachine 1 2"
+		}]
+	}]
+}

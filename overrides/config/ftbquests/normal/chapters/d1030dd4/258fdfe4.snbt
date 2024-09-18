@@ -1,0 +1,11 @@
+{
+	icon: "minecraft:iron_ingot",
+	x: -10.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "c313c6fb",
+		type: "stat",
+		stat: "stat.bountiesEpic",
+		value: 5
+	}]
+}

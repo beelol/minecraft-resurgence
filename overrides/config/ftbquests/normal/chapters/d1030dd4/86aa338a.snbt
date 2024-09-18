@@ -1,0 +1,41 @@
+{
+	title: "Village Hero!",
+	icon: "minecraft:diamond",
+	x: -6.0d,
+	y: 1.5d,
+	text: [
+		"They should be satisfied and I can complete any other requests easily at this point..."
+	],
+	tasks: [{
+		uid: "f6e72840",
+		type: "stat",
+		stat: "stat.bountiesEpic",
+		value: 25
+	}],
+	rewards: [{
+		uid: "53c13578",
+		type: "item",
+		item: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:villager"
+			}
+		}
+	},
+	{
+		uid: "ba71acb7",
+		type: "xp_levels",
+		xp_levels: 10
+	},
+	{
+		uid: "949bed7a",
+		type: "item",
+		item: "harvestcraft:friedchickenitem",
+		count: 12
+	},
+	{
+		uid: "5532bfe8",
+		type: "item",
+		item: "minecraft:sponge"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "28255b0e",
+		type: "item",
+		items: [{
+			item: "thebetweenlands:waterlogged"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

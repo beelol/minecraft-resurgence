@@ -1,0 +1,11 @@
+{
+	icon: "mowziesmobs:barakoa_mask_bliss",
+	x: -2.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "9c1d1027",
+		type: "kill",
+		entity: "mowziesmobs:barakoan_barakoana",
+		value: 1L
+	}]
+}

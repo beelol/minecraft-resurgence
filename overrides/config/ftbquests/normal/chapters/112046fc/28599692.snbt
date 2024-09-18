@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "a0da1e7b",
+		type: "item",
+		items: [{
+			item: "tinker_io:cd_lonesome_avenue"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

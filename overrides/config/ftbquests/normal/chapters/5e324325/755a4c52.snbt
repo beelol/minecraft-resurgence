@@ -1,0 +1,15 @@
+{
+	title: "An idea!",
+	x: -4.5d,
+	y: 2.0d,
+	text: [
+		"I could make a device that lets ME decide the enchants..."
+	],
+	tasks: [{
+		uid: "02a983e1",
+		type: "item",
+		items: [{
+			item: "enderio:block_enchanter"
+		}]
+	}]
+}

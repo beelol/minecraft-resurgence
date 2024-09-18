@@ -1,0 +1,21 @@
+{
+	title: "Scammers & Businessmen",
+	icon: "thermalfoundation:material 1 17",
+	x: -12.0d,
+	y: -1.0d,
+	text: [
+		"I've got to keep a close eye on some of these deals..."
+	],
+	tasks: [{
+		uid: "b48dfe73",
+		type: "stat",
+		stat: "stat.tradedWithVillager",
+		value: 1
+	}],
+	rewards: [{
+		uid: "99877803",
+		type: "item",
+		item: "minecraft:gold_nugget",
+		count: 18
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: -14.5d,
+	y: 0.0d,
+	text: [
+		"Wonder what happens if I..."
+	],
+	tasks: [{
+		uid: "ab93ab07",
+		type: "kill",
+		entity: "minecraft:chicken",
+		value: 1L
+	}]
+}

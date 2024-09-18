@@ -1,0 +1,15 @@
+{
+	title: "Build Boat",
+	x: -12.5d,
+	y: 0.0d,
+	text: [
+		"This is exactly what I need..."
+	],
+	tasks: [{
+		uid: "20579c30",
+		type: "item",
+		items: [{
+			item: "minecraft:boat"
+		}]
+	}]
+}

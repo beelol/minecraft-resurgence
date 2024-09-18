@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -2.0d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "69021e30",
+		type: "item",
+		items: [{
+			item: "thebetweenlands:lonely_fire"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

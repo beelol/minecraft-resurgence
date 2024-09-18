@@ -1,0 +1,15 @@
+{
+	title: "This stuff seems useful...",
+	x: -6.0d,
+	y: 0.0d,
+	text: [
+		"The sticky traits of the slimeball make it ideal for holding temperatures it seems..."
+	],
+	tasks: [{
+		uid: "896c5295",
+		type: "item",
+		items: [{
+			item: "minecraft:slime_ball"
+		}]
+	}]
+}

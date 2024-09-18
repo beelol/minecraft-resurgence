@@ -1,0 +1,11 @@
+{
+	icon: "thebetweenlands:items_misc 1 25",
+	x: -1.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "a5689b75",
+		type: "kill",
+		entity: "mowziesmobs:frostmaw",
+		value: 1L
+	}]
+}

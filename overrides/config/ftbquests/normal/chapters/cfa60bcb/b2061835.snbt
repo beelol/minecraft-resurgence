@@ -1,0 +1,15 @@
+{
+	title: "A way to charge my things...",
+	x: -6.0d,
+	y: 0.0d,
+	text: [
+		"I'll need a way to charge my tools and armor..."
+	],
+	tasks: [{
+		uid: "b418922b",
+		type: "item",
+		items: [{
+			item: "techguns:simplemachine 1 10"
+		}]
+	}]
+}

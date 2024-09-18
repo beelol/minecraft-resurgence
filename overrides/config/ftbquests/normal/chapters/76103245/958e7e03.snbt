@@ -1,0 +1,28 @@
+{
+	title: "Brrr.. How do I get warm?",
+	x: -9.0d,
+	y: 0.0d,
+	shape: "circle",
+	text: [
+		"I should probably make a fire before hypothermia takes over..."
+	],
+	tasks: [{
+		uid: "9debc850",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"campfire:type": {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			id: "campfire:campfire"
+		}]
+	}],
+	rewards: [{
+		uid: "6e5bb724",
+		type: "item",
+		item: "armorunder:goopak_cool"
+	}]
+}

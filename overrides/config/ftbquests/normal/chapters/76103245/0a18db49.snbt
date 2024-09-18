@@ -1,0 +1,23 @@
+{
+	title: "Documenting my travels...",
+	x: -2.5d,
+	y: 0.0d,
+	text: [
+		"I'm thinking of a way to capture the moments i'll make along my journey..."
+	],
+	optional: true,
+	tasks: [{
+		uid: "a3ff1092",
+		type: "item",
+		items: [{
+			item: "camera:camera"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7dd81710",
+		type: "item",
+		item: "camera:image_frame"
+	}]
+}

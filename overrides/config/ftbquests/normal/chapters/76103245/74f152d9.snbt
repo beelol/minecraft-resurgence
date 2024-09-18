@@ -1,0 +1,21 @@
+{
+	title: "That didn't last long....",
+	x: -9.0d,
+	y: -2.0d,
+	text: [
+		"I'm going to need to figure out how to make more of these..."
+	],
+	optional: true,
+	tasks: [{
+		uid: "72e3c907",
+		type: "item",
+		items: [{
+			item: "armorunder:goopak_spent"
+		}]
+	}],
+	rewards: [{
+		uid: "7e61ddfd",
+		type: "item",
+		item: "minecraft:paper"
+	}]
+}
