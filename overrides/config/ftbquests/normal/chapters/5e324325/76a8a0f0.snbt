@@ -5,6 +5,9 @@
 	text: [
 		"Now I just need enough Dew to make my first trip! "
 	],
+	dependencies: [
+		"932eba02"
+	],
 	tasks: [{
 		uid: "fb7084d9",
 		type: "fluid",

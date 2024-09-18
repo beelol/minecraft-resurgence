@@ -5,6 +5,9 @@
 	text: [
 		"In the rain or when I see one they seem to be able to move interdimensionally..."
 	],
+	dependencies: [
+		"77bb2308"
+	],
 	tasks: [{
 		uid: "5c6639c2",
 		type: "kill",

@@ -5,6 +5,9 @@
 	text: [
 		"I need a new way to keep cool for longer..."
 	],
+	dependencies: [
+		"0c897f20"
+	],
 	tasks: [{
 		uid: "645bddfe",
 		type: "item",

@@ -5,6 +5,9 @@
 	text: [
 		"I could make a device that lets ME decide the enchants..."
 	],
+	dependencies: [
+		"151ce8a8"
+	],
 	tasks: [{
 		uid: "02a983e1",
 		type: "item",

@@ -5,6 +5,9 @@
 	text: [
 		"Might aswell make one of these.. would make life easier..."
 	],
+	dependencies: [
+		"fbab7600"
+	],
 	tasks: [{
 		uid: "d07f446a",
 		type: "item",

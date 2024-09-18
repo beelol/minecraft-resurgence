@@ -5,10 +5,16 @@
 	text: [
 		"I have a craving for destruction.. more than any ordinary tool can cause..."
 	],
+	dependencies: [
+		"1d56e815"
+	],
 	tasks: [{
 		uid: "6e518ac4",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"ocdevices:item_analyze": {}
+			},
 			id: "techguns:rocketlauncher",
 			tag: {
 				ammo: 1s,

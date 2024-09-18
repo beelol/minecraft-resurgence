@@ -6,6 +6,9 @@
 	text: [
 		"They should be satisfied and I can complete any other requests easily at this point..."
 	],
+	dependencies: [
+		"e76bcb21"
+	],
 	tasks: [{
 		uid: "f6e72840",
 		type: "stat",

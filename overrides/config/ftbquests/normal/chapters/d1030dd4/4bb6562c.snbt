@@ -12,6 +12,9 @@
 	text: [
 		"Now I know all the merchants on a first name basis..."
 	],
+	dependencies: [
+		"fcf0eb2c"
+	],
 	tasks: [{
 		uid: "4374679f",
 		type: "stat",

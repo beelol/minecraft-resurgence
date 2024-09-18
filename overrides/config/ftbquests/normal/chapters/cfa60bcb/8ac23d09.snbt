@@ -5,6 +5,9 @@
 	text: [
 		"I should make something to have a steady supply of ammunition..."
 	],
+	dependencies: [
+		"a49cb0bd"
+	],
 	tasks: [{
 		uid: "9aa14393",
 		type: "item",

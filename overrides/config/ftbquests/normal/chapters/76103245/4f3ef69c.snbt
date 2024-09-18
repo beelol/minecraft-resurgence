@@ -5,6 +5,9 @@
 	text: [
 		"Now that I have a temporary solution to getting warm, how do I cool off?"
 	],
+	dependencies: [
+		"958e7e03"
+	],
 	tasks: [{
 		uid: "5c57b590",
 		type: "item",

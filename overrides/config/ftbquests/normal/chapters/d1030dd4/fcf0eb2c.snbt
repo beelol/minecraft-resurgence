@@ -6,6 +6,9 @@
 	text: [
 		"They're starting to give me better deals!"
 	],
+	dependencies: [
+		"53cdbda2"
+	],
 	tasks: [{
 		uid: "c847838b",
 		type: "stat",

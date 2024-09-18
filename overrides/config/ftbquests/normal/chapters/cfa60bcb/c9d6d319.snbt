@@ -2,10 +2,16 @@
 	title: "Gun nut!",
 	x: -9.5d,
 	y: -2.0d,
+	dependencies: [
+		"d78241bd"
+	],
 	tasks: [{
 		uid: "cfe47ece",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"ocdevices:item_analyze": {}
+			},
 			id: "techguns:sawedoff",
 			tag: {
 				ammo: 2s,

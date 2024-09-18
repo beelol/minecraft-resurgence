@@ -5,6 +5,9 @@
 	text: [
 		"The sticky traits of the slimeball make it ideal for holding temperatures it seems..."
 	],
+	dependencies: [
+		"4f3ef69c"
+	],
 	tasks: [{
 		uid: "896c5295",
 		type: "item",

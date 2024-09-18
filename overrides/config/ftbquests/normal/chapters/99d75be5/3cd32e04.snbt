@@ -4,6 +4,9 @@
 	text: [
 		"How many more are left... Surely word has spread... My unspeakable acts can't go unpunished forever... I hope they do..."
 	],
+	dependencies: [
+		"1c336866"
+	],
 	optional: true,
 	tasks: [{
 		uid: "0a86acaa",

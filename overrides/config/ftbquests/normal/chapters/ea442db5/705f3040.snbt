@@ -1,10 +1,19 @@
 {
 	x: 1.0d,
 	y: -0.5d,
+	dependencies: [
+		"9839f749",
+		"ad9d0e91"
+	],
 	tasks: [{
 		uid: "3bde3ec5",
 		type: "kill",
-		icon: "mowziesmobs:wrought_axe",
+		icon: {
+			ForgeCaps: {
+				"ocdevices:item_analyze": {}
+			},
+			id: "mowziesmobs:wrought_axe"
+		},
 		entity: "mowziesmobs:ferrous_wroughtnaut",
 		value: 1L
 	}]

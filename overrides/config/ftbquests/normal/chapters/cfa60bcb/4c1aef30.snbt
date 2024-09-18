@@ -2,6 +2,10 @@
 	title: "I am become death, destroyer of worlds",
 	x: -4.0d,
 	y: 0.0d,
+	dependencies: [
+		"194cea58",
+		"3e756856"
+	],
 	tasks: [{
 		uid: "7b108175",
 		type: "item",

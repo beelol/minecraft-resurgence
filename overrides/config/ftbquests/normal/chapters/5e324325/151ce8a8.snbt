@@ -5,6 +5,9 @@
 	text: [
 		"Their knowledge and experiences... I feel it too..."
 	],
+	dependencies: [
+		"5060c624"
+	],
 	tasks: [{
 		uid: "f9188fdc",
 		type: "xp",

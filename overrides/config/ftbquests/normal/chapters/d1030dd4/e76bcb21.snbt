@@ -2,6 +2,9 @@
 	icon: "minecraft:gold_ingot",
 	x: -8.0d,
 	y: 1.5d,
+	dependencies: [
+		"258fdfe4"
+	],
 	tasks: [{
 		uid: "8e692622",
 		type: "stat",

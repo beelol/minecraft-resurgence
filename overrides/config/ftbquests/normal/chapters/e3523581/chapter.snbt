@@ -1,5 +1,6 @@
 {
 	title: "Mobility",
+	icon: "simpleplanes:oak_plane",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

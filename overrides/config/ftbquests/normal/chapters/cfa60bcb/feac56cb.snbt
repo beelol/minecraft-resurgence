@@ -5,6 +5,9 @@
 	text: [
 		"I have a feeling if I arrange certain electrical components in the right order I just might be able to create something to fabricate everything i'll need for guns..."
 	],
+	dependencies: [
+		"00ac4ce1"
+	],
 	tasks: [{
 		uid: "c76e8f00",
 		type: "item",

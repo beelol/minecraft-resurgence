@@ -6,6 +6,9 @@
 	text: [
 		"I've got to keep a close eye on some of these deals..."
 	],
+	dependencies: [
+		"25721086"
+	],
 	tasks: [{
 		uid: "b48dfe73",
 		type: "stat",

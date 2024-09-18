@@ -9,6 +9,9 @@
 		uid: "00cc85db",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"ocdevices:item_analyze": {}
+			},
 			id: "techguns:miningdrill",
 			tag: {
 				ammo: 300s,

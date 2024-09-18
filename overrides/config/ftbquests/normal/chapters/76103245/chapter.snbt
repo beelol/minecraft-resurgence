@@ -1,5 +1,15 @@
 {
 	title: "Temperature & You!",
+	icon: {
+		ForgeCaps: {
+			"campfire:type": {
+				id: "minecraft:log",
+				Count: 1b,
+				Damage: 0s
+			}
+		},
+		id: "campfire:campfire"
+	},
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

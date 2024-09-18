@@ -1,5 +1,6 @@
 {
 	title: "Sound Hound",
+	icon: "thebetweenlands:wandering_wisps",
 	always_invisible: true,
 	group: 0,
 	default_quest_shape: ""

@@ -5,6 +5,9 @@
 	text: [
 		"Now that's out of the way I should throw in something to see what comes out..."
 	],
+	dependencies: [
+		"77fe7d98"
+	],
 	tasks: [{
 		uid: "a879ddbc",
 		type: "item",

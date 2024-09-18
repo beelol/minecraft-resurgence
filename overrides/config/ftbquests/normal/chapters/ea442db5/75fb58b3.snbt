@@ -2,6 +2,9 @@
 	icon: "mowziesmobs:foliaath_seed",
 	x: -4.0d,
 	y: -0.5d,
+	dependencies: [
+		"cc7d8b4e"
+	],
 	tasks: [{
 		uid: "a5b501eb",
 		type: "kill",

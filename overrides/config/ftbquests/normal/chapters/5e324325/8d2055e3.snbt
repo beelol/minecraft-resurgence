@@ -5,6 +5,9 @@
 	text: [
 		"I swear I could use the properties of the End and endermen.. my soul is not strong enough, i'll have to make a device that is..."
 	],
+	dependencies: [
+		"5acb144e"
+	],
 	tasks: [{
 		uid: "d33e959e",
 		type: "item",
