@@ -14,7 +14,7 @@ import mods.jei.JEI;
 */
 // Betweenlands obsidian boat
 mods.jei.JEI.hide(<netherex:obsidian_boat>);
-recipes.removeByRecipeName("netherex:obsidian_boat")
+recipes.removeByRecipeName("netherex:obsidian_boat");
 
 // OC Nanomachines recipe
 recipes.removeByRecipeName("opencomputers:tool61");
