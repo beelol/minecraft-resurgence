@@ -1,0 +1,20 @@
+{
+	title: "Seasons change...",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"I'm going to have to learn more about the seasons somehow..."
+	],
+	tasks: [{
+		uid: "293be0a0",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "9352c8e0",
+		type: "item",
+		item: "minecraft:wheat"
+	}]
+}

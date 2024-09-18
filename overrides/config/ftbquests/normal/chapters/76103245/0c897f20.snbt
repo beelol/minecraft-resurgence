@@ -1,0 +1,15 @@
+{
+	title: "Temporary cold...",
+	x: -4.5d,
+	y: 1.0d,
+	text: [
+		"Doesn't seem to last very long though..."
+	],
+	tasks: [{
+		uid: "1f835ec6",
+		type: "item",
+		items: [{
+			item: "armorunder:goopak_cool"
+		}]
+	}]
+}

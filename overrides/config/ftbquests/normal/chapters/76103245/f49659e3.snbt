@@ -1,0 +1,15 @@
+{
+	title: "I'm gonna need to cool my armor...",
+	x: 1.5d,
+	y: 1.0d,
+	text: [
+		"Lining my armor is probably the best way to keep whatever armor I choose to make cool..."
+	],
+	tasks: [{
+		uid: "7f8cc34f",
+		type: "item",
+		items: [{
+			item: "armorunder:cool_liner_material"
+		}]
+	}]
+}

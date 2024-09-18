@@ -1,0 +1,15 @@
+{
+	title: "Build Hang Glider",
+	x: -9.5d,
+	y: 0.0d,
+	text: [
+		"Alright the boat was fun but I don't want to only travel on water..."
+	],
+	tasks: [{
+		uid: "b73832d9",
+		type: "item",
+		items: [{
+			item: "openblocks:hang_glider"
+		}]
+	}]
+}

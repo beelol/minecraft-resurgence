@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "93cb67d8",
+		type: "item",
+		items: [{
+			item: "minecraft:record_ward"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

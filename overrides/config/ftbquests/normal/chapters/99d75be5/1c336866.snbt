@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: 0.0d,
+	text: [
+		"I can't stop myself... It's the only way to feel anymore... I love the hunt... This is why I was put here..."
+	],
+	optional: true,
+	tasks: [{
+		uid: "1994abbb",
+		type: "stat",
+		stat: "stat.playerKills",
+		value: 10
+	}],
+	rewards: [{
+		uid: "801b15fd",
+		type: "item",
+		item: "thaumcraft:flesh_block"
+	}]
+}

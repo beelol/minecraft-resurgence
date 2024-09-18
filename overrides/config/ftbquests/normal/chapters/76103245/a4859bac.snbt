@@ -1,0 +1,16 @@
+{
+	title: "I hate fires..",
+	x: -2.5d,
+	y: -2.0d,
+	shape: "circle",
+	text: [
+		"I'm getting tired of making fires, maybe I can wear the heat instead?"
+	],
+	tasks: [{
+		uid: "2983cdc5",
+		type: "item",
+		items: [{
+			item: "minecraft:wool"
+		}]
+	}]
+}

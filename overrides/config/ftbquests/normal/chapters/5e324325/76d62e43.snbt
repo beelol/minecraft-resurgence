@@ -1,0 +1,15 @@
+{
+	title: "Brewing holds the answers...",
+	x: -9.0d,
+	y: 0.0d,
+	text: [
+		"If I can learn how to recreate their mystical powers I could use it to safely traverse great distances..."
+	],
+	tasks: [{
+		uid: "a2614640",
+		type: "item",
+		items: [{
+			item: "enderio:block_vat"
+		}]
+	}]
+}

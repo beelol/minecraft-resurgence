@@ -1,0 +1,15 @@
+{
+	title: "How do I make more metals?",
+	x: -13.5d,
+	y: 0.0d,
+	text: [
+		"I need to make a device that can smelt down metals into different alloys than i'm used to working with..."
+	],
+	tasks: [{
+		uid: "1ba07ab6",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_alloy_smelter"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Tyccoon!",
+	icon: {
+		id: "microblockcbe:microblock",
+		tag: {
+			mat: "minecraft:emerald_block"
+		},
+		Damage: 772s
+	},
+	x: -8.0d,
+	y: -2.0d,
+	text: [
+		"Now I know all the merchants on a first name basis..."
+	],
+	tasks: [{
+		uid: "4374679f",
+		type: "stat",
+		stat: "stat.tradedWithVillager",
+		value: 10
+	}]
+}

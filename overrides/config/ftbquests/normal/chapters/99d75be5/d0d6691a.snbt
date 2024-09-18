@@ -1,0 +1,13 @@
+{
+	x: -10.5d,
+	y: 0.0d,
+	text: [
+		"Ha! Okay it must be way more fun on something bigger..."
+	],
+	tasks: [{
+		uid: "be647621",
+		type: "kill",
+		entity: "minecraft:cow",
+		value: 5L
+	}]
+}

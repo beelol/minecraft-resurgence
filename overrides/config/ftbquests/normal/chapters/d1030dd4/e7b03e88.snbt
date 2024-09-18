@@ -1,0 +1,17 @@
+{
+	title: "What Happened!?!",
+	x: -13.5d,
+	y: -4.5d,
+	optional: true,
+	tasks: [{
+		uid: "288a8105",
+		type: "kill",
+		entity: "minecraft:zombie_villager",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "973a921b",
+		type: "item",
+		item: "minecraft:emerald"
+	}]
+}

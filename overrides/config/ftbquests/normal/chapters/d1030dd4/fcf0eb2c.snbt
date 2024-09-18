@@ -1,0 +1,15 @@
+{
+	title: "Hustlin'",
+	icon: "minecraft:emerald",
+	x: -10.0d,
+	y: -2.0d,
+	text: [
+		"They're starting to give me better deals!"
+	],
+	tasks: [{
+		uid: "c847838b",
+		type: "stat",
+		stat: "stat.tradedWithVillager",
+		value: 5
+	}]
+}

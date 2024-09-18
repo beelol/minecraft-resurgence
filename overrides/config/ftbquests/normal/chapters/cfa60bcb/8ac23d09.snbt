@@ -1,0 +1,15 @@
+{
+	title: "I need more bullets...",
+	x: -7.5d,
+	y: 0.0d,
+	text: [
+		"I should make something to have a steady supply of ammunition..."
+	],
+	tasks: [{
+		uid: "9aa14393",
+		type: "item",
+		items: [{
+			item: "techguns:basicmachine"
+		}]
+	}]
+}

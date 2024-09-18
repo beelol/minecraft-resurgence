@@ -1,0 +1,22 @@
+{
+	title: "Build Plane",
+	x: -6.5d,
+	y: 0.0d,
+	text: [
+		"DEATH FROM ABOVE!"
+	],
+	tasks: [{
+		uid: "7282c5c1",
+		type: "item",
+		items: [{
+			item: "simpleplanes:oak_plane"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4ddc2d6e",
+		type: "item",
+		item: "minecraft:tnt"
+	}]
+}

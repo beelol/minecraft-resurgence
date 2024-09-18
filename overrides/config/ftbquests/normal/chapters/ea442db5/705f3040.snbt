@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "3bde3ec5",
+		type: "kill",
+		icon: "mowziesmobs:wrought_axe",
+		entity: "mowziesmobs:ferrous_wroughtnaut",
+		value: 1L
+	}]
+}

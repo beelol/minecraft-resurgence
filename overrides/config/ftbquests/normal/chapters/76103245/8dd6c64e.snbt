@@ -1,0 +1,15 @@
+{
+	title: "I hate being hot...",
+	x: -2.5d,
+	y: 2.0d,
+	text: [
+		"I need a new way to keep cool for longer..."
+	],
+	tasks: [{
+		uid: "645bddfe",
+		type: "item",
+		items: [{
+			item: "toughasnails:jelled_slime"
+		}]
+	}]
+}

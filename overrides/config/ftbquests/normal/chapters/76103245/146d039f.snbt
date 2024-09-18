@@ -1,0 +1,15 @@
+{
+	title: "I'm gonna need to heat my armor...",
+	x: 1.5d,
+	y: -1.0d,
+	text: [
+		"Lining my armor is probably the best way to keep whatever armor I choose to make warm..."
+	],
+	tasks: [{
+		uid: "ae4ff147",
+		type: "item",
+		items: [{
+			item: "armorunder:warm_liner_material"
+		}]
+	}]
+}

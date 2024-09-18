@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "c2fd6daf",
+		type: "item",
+		items: [{
+			item: "thebetweenlands:beneath_a_green_sky"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

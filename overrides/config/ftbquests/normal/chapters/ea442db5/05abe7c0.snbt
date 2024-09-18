@@ -1,0 +1,40 @@
+{
+	x: -6.0d,
+	y: -5.5d,
+	hide_dependency_lines: true,
+	hide: true,
+	hide_text_until_complete: true,
+	optional: true,
+	tasks: [{
+		uid: "5ae393e7",
+		type: "kill",
+		icon: {
+			id: "mowziesmobs:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mowziesmobs:lantern"
+				}
+			}
+		},
+		entity: "mowziesmobs:lantern",
+		value: 25L
+	}],
+	rewards: [{
+		uid: "c5802198",
+		type: "item",
+		item: "xreliquary:lantern_of_paranoia"
+	},
+	{
+		uid: "8b0911a4",
+		type: "toast",
+		title: "Secret Achievement #2 out of ?"
+	},
+	{
+		uid: "3f50757f",
+		type: "advancement",
+		title: "Lighter than light!",
+		icon: "immersiveengineering:cloth_device 1 1",
+		advancement: "Lighter than light!",
+		criterion: ""
+	}]
+}

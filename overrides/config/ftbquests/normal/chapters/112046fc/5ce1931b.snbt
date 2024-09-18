@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: 0.0d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "cb9a9727",
+		type: "item",
+		items: [{
+			item: "minecraft:record_mellohi"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

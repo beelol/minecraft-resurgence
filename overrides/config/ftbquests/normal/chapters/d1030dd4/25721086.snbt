@@ -1,0 +1,20 @@
+{
+	title: "Friendly Faces!",
+	icon: {
+		id: "openblocks:trophy",
+		tag: {
+			entity_id: "minecraft:villager"
+		}
+	},
+	x: -13.5d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "b382f7ba",
+		type: "stat",
+		stat: "stat.talkedToVillager",
+		value: 1
+	}]
+}

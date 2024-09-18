@@ -1,0 +1,44 @@
+{
+	title: "Cool at last...",
+	x: -0.5d,
+	y: 2.0d,
+	text: [
+		"I don't like how the stickyness feels on my skin.."
+	],
+	tasks: [{
+		uid: "0b41cb6b",
+		type: "item",
+		items: [{
+			item: "toughasnails:jelled_slime_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8368526d",
+		type: "item",
+		items: [{
+			item: "toughasnails:jelled_slime_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6e7e7817",
+		type: "item",
+		items: [{
+			item: "toughasnails:jelled_slime_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "aa9d67d7",
+		type: "item",
+		items: [{
+			item: "toughasnails:jelled_slime_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

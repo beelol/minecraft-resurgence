@@ -1,0 +1,14 @@
+{
+	title: "It works!",
+	x: -3.0d,
+	y: 0.0d,
+	text: [
+		"Now I just need enough Dew to make my first trip! "
+	],
+	tasks: [{
+		uid: "fb7084d9",
+		type: "fluid",
+		fluid: "ender_distillation",
+		amount: 500000
+	}]
+}

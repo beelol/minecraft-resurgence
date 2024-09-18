@@ -1,0 +1,15 @@
+{
+	title: "Temporary heat...",
+	x: -4.5d,
+	y: -1.0d,
+	text: [
+		"Doesn't seem to last very long though..."
+	],
+	tasks: [{
+		uid: "d26bc74d",
+		type: "item",
+		items: [{
+			item: "armorunder:goopak_heat"
+		}]
+	}]
+}

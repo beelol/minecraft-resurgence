@@ -1,0 +1,15 @@
+{
+	title: "Teleportation is close...",
+	x: -6.0d,
+	y: 0.0d,
+	text: [
+		"I swear I could use the properties of the End and endermen.. my soul is not strong enough, i'll have to make a device that is..."
+	],
+	tasks: [{
+		uid: "d33e959e",
+		type: "item",
+		items: [{
+			item: "enderio:block_tele_pad"
+		}]
+	}]
+}

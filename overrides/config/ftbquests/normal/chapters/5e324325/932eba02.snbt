@@ -1,0 +1,17 @@
+{
+	title: "Coordinates for input...",
+	x: -4.5d,
+	y: 0.0d,
+	text: [
+		"Guess i'll need a device to remember all the coordinates I want to teleport to..."
+	],
+	tasks: [{
+		uid: "8360f8f9",
+		type: "item",
+		items: [{
+			item: "enderio:item_coord_selector"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,44 @@
+{
+	title: "Cozy at last...",
+	x: -0.5d,
+	y: -2.0d,
+	text: [
+		"It's really itchy though and seems sort of flimsy..."
+	],
+	tasks: [{
+		uid: "d29656aa",
+		type: "item",
+		items: [{
+			item: "toughasnails:wool_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6a4678dd",
+		type: "item",
+		items: [{
+			item: "toughasnails:wool_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e0d10459",
+		type: "item",
+		items: [{
+			item: "toughasnails:wool_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1e462ab9",
+		type: "item",
+		items: [{
+			item: "toughasnails:wool_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

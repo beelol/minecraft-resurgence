@@ -1,0 +1,15 @@
+{
+	title: "Pressed metal?",
+	x: -13.5d,
+	y: 0.0d,
+	text: [
+		"Seems simple enough..."
+	],
+	tasks: [{
+		uid: "1ecd5d90",
+		type: "item",
+		items: [{
+			item: "techguns:basicmachine 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	icon: {
+		id: "thebetweenlands:critter",
+		tag: {
+			Entity: {
+				id: "thebetweenlands:dragonfly"
+			}
+		}
+	},
+	x: -1.0d,
+	y: -0.5d,
+	tasks: [{
+		uid: "dc21c88e",
+		type: "kill",
+		entity: "mowziesmobs:naga",
+		value: 1L
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -6.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "7ab1b1ae",
+		type: "item",
+		items: [{
+			item: "techguns:itemshared 1 58"
+		}]
+	}]
+}

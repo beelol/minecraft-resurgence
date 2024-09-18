@@ -1,0 +1,25 @@
+{
+	title: "I am become death, destroyer of worlds",
+	x: -4.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "7b108175",
+		type: "item",
+		items: [{
+			item: "techguns:itemshared 1 117"
+		}]
+	}],
+	rewards: [{
+		uid: "1af0a672",
+		type: "toast",
+		title: "Pending doom! Nuke Warning! *RADIATION*"
+	},
+	{
+		uid: "5306a095",
+		type: "advancement",
+		title: "Rocketman!",
+		icon: "techguns:itemshared 1 7",
+		advancement: "",
+		criterion: ""
+	}]
+}

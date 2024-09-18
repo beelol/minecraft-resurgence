@@ -1,0 +1,19 @@
+{
+	title: "Gun nut!",
+	x: -9.5d,
+	y: -2.0d,
+	tasks: [{
+		uid: "cfe47ece",
+		type: "item",
+		items: [{
+			id: "techguns:sawedoff",
+			tag: {
+				ammo: 2s,
+				ammovariant: "default",
+				camo: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

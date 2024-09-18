@@ -1,0 +1,36 @@
+{
+	title: "Time to see if this thing works...",
+	x: -12.0d,
+	y: 0.0d,
+	text: [
+		"Now that's out of the way I should throw in something to see what comes out..."
+	],
+	tasks: [{
+		uid: "a879ddbc",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 4"
+		}]
+	},
+	{
+		uid: "f4a6dd96",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 5"
+		}]
+	},
+	{
+		uid: "48d982d8",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 6"
+		}]
+	},
+	{
+		uid: "186c9759",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 7"
+		}]
+	}]
+}

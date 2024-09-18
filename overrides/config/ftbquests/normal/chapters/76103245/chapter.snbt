@@ -1,0 +1,6 @@
+{
+	title: "Temperature & You!",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

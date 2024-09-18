@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: -3.5d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "5b65b2d3",
+		type: "item",
+		items: [{
+			item: "minecraft:record_13"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

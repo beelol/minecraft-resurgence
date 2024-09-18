@@ -1,0 +1,16 @@
+{
+	icon: {
+		id: "thaumcraft:golem",
+		tag: {
+			props: 72341268037894144L
+		}
+	},
+	x: -2.5d,
+	y: 0.5d,
+	tasks: [{
+		uid: "51e18101",
+		type: "kill",
+		entity: "mowziesmobs:grottol",
+		value: 1L
+	}]
+}

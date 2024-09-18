@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "48fb6397",
+		type: "item",
+		items: [{
+			item: "thebetweenlands:onwards"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

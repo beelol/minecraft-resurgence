@@ -1,0 +1,12 @@
+{
+	x: -4.5d,
+	y: -4.0d,
+	hide_text_until_complete: true,
+	tasks: [{
+		uid: "47d574d0",
+		type: "item",
+		items: [{
+			item: "minecraft:jukebox"
+		}]
+	}]
+}

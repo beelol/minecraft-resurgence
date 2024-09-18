@@ -1,0 +1,41 @@
+{
+	title: "Monopoly!",
+	icon: "minecraft:emerald_block",
+	x: -6.0d,
+	y: -2.0d,
+	text: [
+		"The villagers only look to me for supplies... no outside sources..."
+	],
+	tasks: [{
+		uid: "e2e270a6",
+		type: "stat",
+		stat: "stat.tradedWithVillager",
+		value: 25
+	}],
+	rewards: [{
+		uid: "d3e0cee5",
+		type: "item",
+		item: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:villager"
+			}
+		}
+	},
+	{
+		uid: "cab36db9",
+		type: "item",
+		item: "minecraft:emerald_block"
+	},
+	{
+		uid: "ec8bcfba",
+		type: "item",
+		item: "harvestcraft:friedchickenitem",
+		count: 12
+	},
+	{
+		uid: "b58d9d13",
+		type: "item",
+		item: "minecraft:ender_eye"
+	}]
+}

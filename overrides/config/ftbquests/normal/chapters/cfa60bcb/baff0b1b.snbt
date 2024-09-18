@@ -1,0 +1,15 @@
+{
+	title: "More utility",
+	x: -11.5d,
+	y: -1.5d,
+	text: [
+		"Might aswell make one of these.. would make life easier..."
+	],
+	tasks: [{
+		uid: "d07f446a",
+		type: "item",
+		items: [{
+			item: "techguns:simplemachine2 1 8"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -6.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "888ed5af",
+		type: "item",
+		items: [{
+			item: "techguns:multiblockmachine 1 3"
+		}]
+	}]
+}

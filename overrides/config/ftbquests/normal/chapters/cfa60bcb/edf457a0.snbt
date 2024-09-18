@@ -1,0 +1,23 @@
+{
+	title: "I'm getting tired of mining the old fashioned way...",
+	x: -7.0d,
+	y: -1.5d,
+	text: [
+		"I could just make something to do all the hardwork for me..."
+	],
+	tasks: [{
+		uid: "00cc85db",
+		type: "item",
+		items: [{
+			id: "techguns:miningdrill",
+			tag: {
+				ammo: 300s,
+				ammovariant: "default",
+				miningHead: 0,
+				camo: 0b
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
