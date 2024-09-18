@@ -5,6 +5,9 @@
 	text: [
 		"I need more but this is a start..."
 	],
+	dependencies: [
+		"83320c33"
+	],
 	tasks: [{
 		uid: "c1c07975",
 		type: "item",

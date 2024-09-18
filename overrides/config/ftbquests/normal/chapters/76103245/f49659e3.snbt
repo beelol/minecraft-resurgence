@@ -5,6 +5,9 @@
 	text: [
 		"Lining my armor is probably the best way to keep whatever armor I choose to make cool..."
 	],
+	dependencies: [
+		"81457141"
+	],
 	tasks: [{
 		uid: "7f8cc34f",
 		type: "item",

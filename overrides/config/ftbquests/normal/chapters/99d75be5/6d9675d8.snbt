@@ -4,6 +4,9 @@
 	text: [
 		"That was kind of boring.. What if I?"
 	],
+	dependencies: [
+		"0224918e"
+	],
 	tasks: [{
 		uid: "d6c37e55",
 		type: "kill",

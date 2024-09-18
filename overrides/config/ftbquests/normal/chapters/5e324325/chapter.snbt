@@ -1,5 +1,6 @@
 {
 	title: "Enderist",
+	icon: "enderio:block_tele_pad",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

@@ -5,6 +5,9 @@
 	text: [
 		"Guess i'll need a device to remember all the coordinates I want to teleport to..."
 	],
+	dependencies: [
+		"8d2055e3"
+	],
 	tasks: [{
 		uid: "8360f8f9",
 		type: "item",

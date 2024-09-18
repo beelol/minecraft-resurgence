@@ -6,6 +6,9 @@
 	text: [
 		"I'm getting tired of making fires, maybe I can wear the heat instead?"
 	],
+	dependencies: [
+		"e92008da"
+	],
 	tasks: [{
 		uid: "2983cdc5",
 		type: "item",

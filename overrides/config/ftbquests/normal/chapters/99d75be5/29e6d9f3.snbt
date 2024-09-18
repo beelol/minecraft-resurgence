@@ -4,6 +4,9 @@
 	text: [
 		"Maybe this is just who I am? An abomination... No... It was only one time..."
 	],
+	dependencies: [
+		"b78b96fd"
+	],
 	optional: true,
 	tasks: [{
 		uid: "8bfad7bf",

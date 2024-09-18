@@ -2,6 +2,9 @@
 	icon: "minecraft:iron_ingot",
 	x: -10.0d,
 	y: 1.5d,
+	dependencies: [
+		"e2c7064d"
+	],
 	tasks: [{
 		uid: "c313c6fb",
 		type: "stat",

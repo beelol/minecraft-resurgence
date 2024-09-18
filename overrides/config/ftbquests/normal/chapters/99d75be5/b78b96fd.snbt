@@ -4,6 +4,9 @@
 	text: [
 		"Zombies get old fast... I hardly even feel anything... I can't... but maybe just this one time...."
 	],
+	dependencies: [
+		"0c8d604d"
+	],
 	optional: true,
 	tasks: [{
 		uid: "17c57cba",

@@ -5,6 +5,9 @@
 	text: [
 		"Doesn't seem to last very long though..."
 	],
+	dependencies: [
+		"8cb541df"
+	],
 	tasks: [{
 		uid: "d26bc74d",
 		type: "item",

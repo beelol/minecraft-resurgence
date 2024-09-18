@@ -5,6 +5,9 @@
 	text: [
 		"DEATH FROM ABOVE!"
 	],
+	dependencies: [
+		"88cce060"
+	],
 	tasks: [{
 		uid: "7282c5c1",
 		type: "item",

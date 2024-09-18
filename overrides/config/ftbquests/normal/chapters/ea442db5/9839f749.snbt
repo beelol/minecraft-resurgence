@@ -1,7 +1,15 @@
 {
-	icon: "mowziesmobs:barakoa_mask_fury",
+	icon: {
+		ForgeCaps: {
+			"ocdevices:item_analyze": {}
+		},
+		id: "mowziesmobs:barakoa_mask_fury"
+	},
 	x: -1.0d,
 	y: -2.5d,
+	dependencies: [
+		"ff774df9"
+	],
 	tasks: [{
 		uid: "17a912c6",
 		type: "kill",

@@ -5,6 +5,9 @@
 	text: [
 		"I need some rubber if i'm going to start meddling with more tools and hardware..."
 	],
+	dependencies: [
+		"baff0b1b"
+	],
 	tasks: [{
 		uid: "8072f4f3",
 		type: "item",

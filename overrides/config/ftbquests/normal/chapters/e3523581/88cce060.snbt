@@ -5,6 +5,9 @@
 	text: [
 		"Alright the boat was fun but I don't want to only travel on water..."
 	],
+	dependencies: [
+		"845db605"
+	],
 	tasks: [{
 		uid: "b73832d9",
 		type: "item",

@@ -5,6 +5,7 @@
 	text: [
 		"I'm thinking of a way to capture the moments i'll make along my journey..."
 	],
+	hide_text_until_complete: true,
 	optional: true,
 	tasks: [{
 		uid: "a3ff1092",

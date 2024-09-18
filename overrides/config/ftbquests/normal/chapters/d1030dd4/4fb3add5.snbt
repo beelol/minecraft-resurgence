@@ -6,6 +6,9 @@
 	text: [
 		"The villagers only look to me for supplies... no outside sources..."
 	],
+	dependencies: [
+		"4bb6562c"
+	],
 	tasks: [{
 		uid: "e2e270a6",
 		type: "stat",

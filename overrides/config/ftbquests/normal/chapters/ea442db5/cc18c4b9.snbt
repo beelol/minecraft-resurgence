@@ -9,6 +9,9 @@
 	},
 	x: -1.0d,
 	y: -0.5d,
+	dependencies: [
+		"75fb58b3"
+	],
 	tasks: [{
 		uid: "dc21c88e",
 		type: "kill",

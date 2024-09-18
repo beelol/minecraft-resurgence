@@ -4,6 +4,9 @@
 	text: [
 		"Where is their survival instinct? What if I went for something a little smarter..."
 	],
+	dependencies: [
+		"d0d6691a"
+	],
 	tasks: [{
 		uid: "7941b427",
 		type: "kill",

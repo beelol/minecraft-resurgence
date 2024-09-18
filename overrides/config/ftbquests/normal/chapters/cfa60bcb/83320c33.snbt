@@ -5,6 +5,9 @@
 	text: [
 		"Cyberdemons? well I mean... I am looking for cybernetic parts..."
 	],
+	dependencies: [
+		"0744b46f"
+	],
 	tasks: [{
 		uid: "8bfd2b02",
 		type: "kill",

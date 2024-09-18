@@ -5,6 +5,9 @@
 	text: [
 		"I need to better understand their soul the powers it holds..."
 	],
+	dependencies: [
+		"76d62e43"
+	],
 	tasks: [{
 		uid: "e50fcff1",
 		type: "item",

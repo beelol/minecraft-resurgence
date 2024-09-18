@@ -5,11 +5,17 @@
 	text: [
 		"I don't like how the stickyness feels on my skin.."
 	],
+	dependencies: [
+		"8dd6c64e"
+	],
 	tasks: [{
 		uid: "0b41cb6b",
 		type: "item",
 		items: [{
-			item: "toughasnails:jelled_slime_chestplate"
+			ForgeCaps: {
+				"ocdevices:item_analyze": {}
+			},
+			id: "toughasnails:jelled_slime_chestplate"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -18,7 +24,10 @@
 		uid: "8368526d",
 		type: "item",
 		items: [{
-			item: "toughasnails:jelled_slime_helmet"
+			ForgeCaps: {
+				"ocdevices:item_analyze": {}
+			},
+			id: "toughasnails:jelled_slime_helmet"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -27,7 +36,10 @@
 		uid: "6e7e7817",
 		type: "item",
 		items: [{
-			item: "toughasnails:jelled_slime_leggings"
+			ForgeCaps: {
+				"ocdevices:item_analyze": {}
+			},
+			id: "toughasnails:jelled_slime_leggings"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -36,7 +48,10 @@
 		uid: "aa9d67d7",
 		type: "item",
 		items: [{
-			item: "toughasnails:jelled_slime_boots"
+			ForgeCaps: {
+				"ocdevices:item_analyze": {}
+			},
+			id: "toughasnails:jelled_slime_boots"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

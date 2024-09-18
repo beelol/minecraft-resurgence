@@ -2,6 +2,9 @@
 	icon: "thebetweenlands:items_misc 1 25",
 	x: -1.0d,
 	y: 1.5d,
+	dependencies: [
+		"c73f1569"
+	],
 	tasks: [{
 		uid: "a5689b75",
 		type: "kill",

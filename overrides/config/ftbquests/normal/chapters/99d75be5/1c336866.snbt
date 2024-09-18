@@ -4,6 +4,9 @@
 	text: [
 		"I can't stop myself... It's the only way to feel anymore... I love the hunt... This is why I was put here..."
 	],
+	dependencies: [
+		"b78b96fd"
+	],
 	optional: true,
 	tasks: [{
 		uid: "1994abbb",

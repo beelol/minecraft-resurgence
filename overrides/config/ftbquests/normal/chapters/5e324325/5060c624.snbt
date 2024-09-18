@@ -5,6 +5,9 @@
 	text: [
 		"What if I use them for their resources?"
 	],
+	dependencies: [
+		"5acb144e"
+	],
 	tasks: [{
 		uid: "f1fd4f6a",
 		type: "item",

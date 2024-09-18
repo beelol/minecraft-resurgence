@@ -1,5 +1,6 @@
 {
 	title: "Farmer's Almanac",
+	icon: "sereneseasons:season_clock",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

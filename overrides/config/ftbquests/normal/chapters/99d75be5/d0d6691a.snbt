@@ -4,6 +4,9 @@
 	text: [
 		"Ha! Okay it must be way more fun on something bigger..."
 	],
+	dependencies: [
+		"6d9675d8"
+	],
 	tasks: [{
 		uid: "be647621",
 		type: "kill",

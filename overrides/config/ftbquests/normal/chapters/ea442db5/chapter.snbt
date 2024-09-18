@@ -1,5 +1,11 @@
 {
 	title: "Mama Mowzie!",
+	icon: {
+		ForgeCaps: {
+			"ocdevices:item_analyze": {}
+		},
+		id: "mowziesmobs:barakoa_mask_misery"
+	},
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""
