@@ -282,7 +282,7 @@ recipes.remove(<extrautils2:snowglobe>);
 recipes.remove(<extrautils2:teleporter:1>);
 recipes.remove(<techguns:tacticalmask>);
 recipes.remove(<techguns:antigravpack>);
-recipes.remove(<techguns:itemshared:7> * 4);
+
 recipes.remove(<techguns:itemshared> * 16);
 recipes.remove(<techguns:fraggrenade> * 16);
 recipes.remove(<techguns:stielgranate> * 16);
@@ -377,7 +377,7 @@ recipes.addShaped(<openblocks:hang_glider>, [[null, null, null],[<openblocks:gen
 recipes.addShaped(<openblocks:generic>, [[<harvestcraft:hardenedleatheritem>, <tconstruct:tough_tool_rod>, null],[<techguns:itemshared:60>, <harvestcraft:hardenedleatheritem>, <tconstruct:tough_tool_rod>], [<techguns:itemshared:60>, <techguns:itemshared:60>, <harvestcraft:hardenedleatheritem>]]);
 recipes.addShaped(<techguns:itemshared:60> * 2, [[<minecraft:string>, <minecraft:wool>, <minecraft:string>],[<minecraft:wool>, <harvestcraft:hardenedleatheritem>, <minecraft:wool>], [<minecraft:string>, <minecraft:wool>, null]]);
 recipes.addShaped(<techguns:itemshared:60>, [[<minecraft:string>, <minecraft:wool>, <minecraft:string>],[<minecraft:wool>, <harvestcraft:hardenedleatheritem>, <minecraft:wool>], [<minecraft:string>, <minecraft:wool>, <minecraft:string>]]);
-recipes.addShaped(<techguns:itemshared:7> * 3, [[null, <thermalfoundation:material:224>, null],[<thermalfoundation:material:224>, <minecraft:tnt>, <thermalfoundation:material:224>], [<thermalfoundation:material:224>, <thermalfoundation:material:352>, <thermalfoundation:material:224>]]);
+
 recipes.addShaped(<techguns:stielgranate> * 8, [[null, <thermalfoundation:material:160>, <minecraft:tnt>],[null, <tconstruct:tool_rod>, <thermalfoundation:material:160>], [<thermalfoundation:material:160>, null, null]]);
 recipes.addShaped(<techguns:fraggrenade> * 8, [[null, <thermalfoundation:material:160>, <minecraft:flint_and_steel>],[<thermalfoundation:material:160>, <minecraft:tnt>, <thermalfoundation:material:160>], [null, <thermalfoundation:material:160>, null]]);
 
