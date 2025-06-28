@@ -1,7 +1,0 @@
-{
-	title: "Sudden Death!",
-	icon: "minecraft:tnt",
-	always_invisible: true,
-	group: 0,
-	default_quest_shape: ""
-}

@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "emp"
+	group: "1B575956F083BB5F"
+	id: "04A41DA78F7C5CB1"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "E.M.P"
+}

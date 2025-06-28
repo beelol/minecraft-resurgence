@@ -1,14 +1,17 @@
-[  
-
-{
-    "dimension": 0,
-    "mod": "Techguns",
-    "mincount": {
-      "amount": 0,
-      "mod": "Techguns",
-      "perchunk": true
-    },
+[
+  {
+    "mob": [
+      "crusty_chunks:striker",
+      "crusty_chunks:incinerator",
+      "crusty_chunks:hunter",
+      "crusty_chunks:rifler",
+      "crusty_chunks:mortarer",
+      "crusty_chunks:worker",
+      "crusty_chunks:ciws",
+      "crusty_chunks:assassin",
+      "crusty_chunks:eradicator",
+	  "hexerei:owl",
+    ],
     "result": "deny"
   }
-
 ]

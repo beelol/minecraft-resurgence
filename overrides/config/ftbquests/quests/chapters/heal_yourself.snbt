@@ -1,0 +1,53 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "heal_yourself"
+	group: "1B575956F083BB5F"
+	icon: "tacheal:first_aid_kit"
+	id: "2B9DCD3EF9C396DB"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3CEC896AC1D15B2C"
+			tasks: [{
+				id: "2879D4835C2E5EA5"
+				item: "tacheal:bandages"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			id: "4B1A4FB04FBE5594"
+			tasks: [{
+				id: "3E5E6292F5FE7658"
+				item: "tacheal:first_aid_kit"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			id: "2A46EB9FA78C7E81"
+			tasks: [{
+				id: "2F40003F15DAF2E0"
+				item: "tacheal:combat_stim"
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			id: "6A46C0BEDA7E7E4B"
+			tasks: [{
+				id: "1ED368023F102280"
+				item: "tacheal:painkillers"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+	]
+	title: "Heal Yourself!"
+}

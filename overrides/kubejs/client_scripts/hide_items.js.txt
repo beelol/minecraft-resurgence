@@ -1,0 +1,120 @@
+JEIEvents.hideItems(event => {
+  // Reliquary
+  event.hide([
+    'reliquary:phoenix_feather',
+    'reliquary:void_tear',
+    'reliquary:interdiction_torch',
+    'reliquary:angelheart_vial',
+    'reliquary:hunter_handgun',
+    'reliquary:alkahestry_tome',
+    'reliquary:homing_bullet',
+    'reliquary:ender_bullet',
+    'reliquary:lightning_bullet',
+    'reliquary:concussive_bullet',
+    'reliquary:detonation_bullet',
+    'reliquary:sand_bullet',
+    'reliquary:storm_bullet',
+    'reliquary:silver_bullet',
+    'reliquary:burst_bullet',
+    'reliquary:spores_bullet',
+    'reliquary:wither_bullet',
+    'reliquary:incendiary_bullet'
+  ])
+
+  // Hexerei
+  event.hide([
+    'hexerei:spell_pickpocket',
+    'hexerei:mahogany_broom',
+    'hexerei:willow_broom',
+    'hexerei:witch_hazel_broom',
+    'hexerei:brew_of_invisibility',
+    'hexerei:brew_of_swiftness',
+    'hexerei:brew_of_fortitude',
+    'hexerei:spirit_lantern',
+    'hexerei:crow_flute',
+    'hexerei:spell_deliver',
+    'hexerei:spell_retrieve',
+    'hexerei:spell_attack',
+    'hexerei:spell_guard'
+  ])
+
+  // Enemy Expansion (potion variants)
+  event.hide([
+    Item.of('tconstruct:potion_bucket', '{Potion:"enemyexpansion:swift_flight_potion"}'),
+    Item.of('immersiveengineering:potion_bucket', '{Potion:"enemyexpansion:swift_flight_potion"}'),
+    Item.of('minecraft:potion', '{Potion:"enemyexpansion:swift_flight_potion"}'),
+    Item.of('minecraft:splash_potion', '{Potion:"enemyexpansion:swift_flight_potion"}'),
+    Item.of('minecraft:lingering_potion', '{Potion:"enemyexpansion:swift_flight_potion"}')
+  ])
+
+  // Ender IO
+  event.hide([
+    'enderio:staff_of_teleportation',
+    'enderio:travel_staff'
+  ])
+
+  // Embers Rekindled
+  event.hide([
+    'embers:projector',
+    'embers:beam_splitter',
+    'embers:beam_cannon',
+    'embers:lens_explosion',
+    'embers:lens_piercing',
+    'embers:lens_fire',
+    'embers:ashen_cloak',
+    'embers:atmospheric_bellows'
+  ])
+
+  // Industrial Foregoing
+  event.hide([
+    'industrialforegoing:infinity_drill',
+    'industrialforegoing:infinity_hammer',
+    'industrialforegoing:infinity_trident',
+    'industrialforegoing:infinity_launcher',
+    'industrialforegoing:infinity_nuke',
+    'industrialforegoing:infinity_backpack',
+    'industrialforegoing:infinity_helmet',
+    'industrialforegoing:infinity_chestplate',
+    'industrialforegoing:infinity_leggings',
+    'industrialforegoing:infinity_boots'
+  ])
+
+  // Warium
+  event.hide([
+    'crusty_chunks:artillery_autoloader',
+    'crusty_chunks:artillery_charge_loader',
+    'crusty_chunks:autoloader'
+  ])
+
+  // AE2 Spatial System
+  event.hide([
+    'ae2:spatial_pylon',
+    'ae2:spatial_storage_cell_2',
+    'ae2:spatial_storage_cell_16',
+    'ae2:spatial_storage_cell_128',
+    'ae2:spatial_io_port',
+    'ae2:spatial_anchor'
+  ])
+
+  // Immersive Aircraft
+  event.hide('immersive_aircraft:quadrocopter')
+
+  // Forestry Bags
+  event.hide([
+    'forestry:miner_bag_woven',
+    'forestry:digger_bag_woven',
+    'forestry:builder_bag_woven',
+    'forestry:adventurer_bag_woven',
+    'forestry:hunter_bag_woven',
+    'forestry:forester_bag_woven'
+  ])
+
+  // Airdrops
+  event.hide([
+    'dyairdrop:flaregun1',
+    'dyairdrop:flaregun2',
+    'dyairdrop:flaregun3',
+    'dyairdrop:flaregun4',
+    'dyairdrop:flaregun5'
+  ])
+})

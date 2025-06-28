@@ -1,0 +1,9 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+enableBlueprints = true
+blueprintSpawnChance = 0.2
+minBlueprints = 1
+maxBlueprints = 2
+gunBlacklist = [  ]
+ammoBlacklist = [  ]
+attachmentBlacklist = [  ]

@@ -1,0 +1,48 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1"
+	group: "1B575956F083BB5F"
+	icon: "minecraft:bread"
+	id: "4F0D7DA206E73CB7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1D5FA2B46157238D"
+			rewards: [{
+				id: "0172F4351BE0B4CF"
+				item: "ftbquests:book"
+				type: "item"
+			}]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "realmrpg_skeletons:headache_skeleton"
+				id: "048F7631A49C1A03"
+				title: "Welcome to Resurgence! "
+				type: "dimension"
+			}]
+			x: -8.0d
+			y: -0.5d
+		}
+		{
+			id: "02048FAF6A0D9065"
+			rewards: [{
+				id: "650B8B66DA293928"
+				item: "minecraft:apple"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:apple"
+				id: "24C97DEA8356241A"
+				stat: "minecraft:walk_one_cm"
+				title: "Escape Spawn!"
+				type: "stat"
+				value: 500
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+	]
+	title: "Resurgence"
+}

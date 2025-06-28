@@ -1,0 +1,373 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_killer_inside"
+	group: "1B575956F083BB5F"
+	id: "36E42643EA7D1FAD"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5180F82AF8A93503"
+			invisible: true
+			tasks: [{
+				entity: "minecraft:chicken"
+				icon: "farmersdelight:chicken_cuts"
+				id: "7D3557ACCBA9A8D0"
+				title: "... Poor Chicken..."
+				type: "kill"
+				value: 1L
+			}]
+			x: -16.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["5180F82AF8A93503"]
+			id: "00CF745001DB0304"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				entity: "minecraft:chicken"
+				icon: "minecraft:chicken"
+				id: "76AD032DDAD6D981"
+				title: "...Oh well."
+				type: "kill"
+				value: 3L
+			}]
+			x: -16.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["00CF745001DB0304"]
+			id: "4FBE571F5460389A"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				entity: "minecraft:pig"
+				icon: "tconstruct:bacon"
+				id: "4509130F792E2C31"
+				title: "...Mmmm Bacon"
+				type: "kill"
+				value: 1L
+			}]
+			x: -15.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4FBE571F5460389A"]
+			id: "1E9724EB68431513"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				entity: "minecraft:pig"
+				icon: "farmersdelight:bacon"
+				id: "0938DA8B8DC9CD25"
+				title: "...Pigs are boring.."
+				type: "kill"
+				value: 2L
+			}]
+			x: -14.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1E9724EB68431513"]
+			id: "478D38855D606710"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				entity: "minecraft:cow"
+				icon: "minecraft:beef"
+				id: "4D346444320CD35A"
+				title: "Lots of blood!"
+				type: "kill"
+				value: 1L
+			}]
+			x: -13.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["478D38855D606710"]
+			icon: "farmersdelight:minced_beef"
+			id: "25D6DD8BD80F4771"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "hexerei:blood_bucket"
+				id: "4A7D71EC14C95A1E"
+				title: "That was more fun than defenseless animals!"
+				type: "kill"
+				value: 1L
+			}]
+			x: -11.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["25D6DD8BD80F4771"]
+			id: "6A3E7C8F73E39355"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "reliquary:zombie_heart"
+				id: "28C1173F4350351D"
+				title: "They're brainless though..."
+				type: "kill"
+				value: 5L
+			}]
+			x: -9.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6A3E7C8F73E39355"]
+			id: "11CD4AA2A28C63C3"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				entity: "minecraft:villager"
+				icon: "reliquary:infernal_tear"
+				id: "26703A3778BBA87E"
+				title: "...I shouldn't have done that.."
+				type: "kill"
+				value: 1L
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["11CD4AA2A28C63C3"]
+			icon: "minecraft:player_head"
+			id: "7E48E9FD294A3750"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				entity: "minecraft:villager"
+				id: "5787F2F981655162"
+				title: "I'm becoming a monster..."
+				type: "kill"
+				value: 5L
+			}]
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7E48E9FD294A3750"]
+			icon: {
+				Count: 1
+				id: "immersiveengineering:sawblade"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "4BBB1040DC9DEE7D"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				icon: "hexerei:blood_bottle"
+				id: "0890096D328D585C"
+				stat: "minecraft:player_kills"
+				title: "DEMONS TALK TO ME"
+				type: "stat"
+				value: 1
+			}]
+			x: -6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4BBB1040DC9DEE7D"]
+			icon: "realmrpg_skeletons:headless_skeleton"
+			id: "22FB4250F9C3D606"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				icon: "minecraft:rotten_flesh"
+				id: "7E30E5B146F1F087"
+				stat: "minecraft:player_kills"
+				title: "LISTENING ALWAYS"
+				type: "stat"
+				value: 2
+			}]
+			x: -8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["22FB4250F9C3D606"]
+			icon: "minecraft:rotten_flesh"
+			id: "790B77A45AB8614E"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				id: "6405FD11F7F2A68D"
+				stat: "minecraft:player_kills"
+				title: "PAIN IS MEANING"
+				type: "stat"
+				value: 3
+			}]
+			x: -10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["790B77A45AB8614E"]
+			icon: "hexerei:blood_bottle"
+			id: "56FE7C2160A8006B"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				id: "6EC4B11083E3947B"
+				stat: "minecraft:player_kills"
+				title: "NO CHAINS"
+				type: "stat"
+				value: 5
+			}]
+			x: -12.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["56FE7C2160A8006B"]
+			icon: "hexerei:blood_bottle"
+			id: "6DCC193A3339B299"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				id: "48E7179F8F137C73"
+				stat: "minecraft:player_kills"
+				title: "FATHER FORSAKES US"
+				type: "stat"
+				value: 10
+			}]
+			x: -13.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6DCC193A3339B299"]
+			id: "105C39D3F0CBF1C4"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				icon: "hexerei:blood_bottle"
+				id: "2033A282068FCCCA"
+				stat: "minecraft:player_kills"
+				title: "KNOW ME"
+				type: "stat"
+				value: 15
+			}]
+			x: -14.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["105C39D3F0CBF1C4"]
+			id: "6983622F188035CC"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				icon: "hexerei:blood_bottle"
+				id: "338BA9520D571531"
+				stat: "minecraft:player_kills"
+				title: "GOD FEARS"
+				type: "stat"
+				value: 20
+			}]
+			x: -12.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6983622F188035CC"]
+			icon: "hexerei:blood_bottle"
+			id: "76B3E3BD56155ED0"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				id: "6BA32B4180FD7576"
+				stat: "minecraft:player_kills"
+				title: "HEAVEN IS FULL"
+				type: "stat"
+				value: 25
+			}]
+			x: -10.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["76B3E3BD56155ED0"]
+			icon: "hexerei:blood_bottle"
+			id: "24832C231CC566C0"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				id: "59D6CDC750457ED1"
+				stat: "minecraft:player_kills"
+				title: "HELL IS NEAR"
+				type: "stat"
+				value: 1
+			}]
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["24832C231CC566C0"]
+			icon: "hexerei:blood_bottle"
+			id: "6AE0B22BA5B0309B"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				id: "6C264CF2030D7F82"
+				stat: "minecraft:player_kills"
+				title: "GSDKDHSDNKI"
+				type: "stat"
+				value: 30
+			}]
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6AE0B22BA5B0309B"]
+			icon: "hexerei:blood_bottle"
+			id: "08AFF24F89B77D38"
+			invisible: true
+			min_required_dependencies: 1
+			tasks: [{
+				id: "252EF748142B7569"
+				stat: "minecraft:player_kills"
+				title: "...ACK..TU..ZIN.WY"
+				type: "stat"
+				value: 40
+			}]
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["08AFF24F89B77D38"]
+			icon: "hexerei:blood_bucket"
+			id: "242E21A443661752"
+			invisible: true
+			min_required_dependencies: 1
+			rewards: [
+				{
+					count: 64
+					id: "7703949DB60EF36E"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "6F2D500592C1A9D9"
+					item: "hexerei:blood_bucket"
+					type: "item"
+				}
+				{
+					id: "2802CA3D6D44CA33"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "715F726F6FB29C64"
+				stat: "minecraft:player_kills"
+				title: "I WILL NEVER BE FULL"
+				type: "stat"
+				value: 50
+			}]
+			x: -11.0d
+			y: 1.5d
+		}
+	]
+	title: "The Killer Inside..."
+}

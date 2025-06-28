@@ -1,0 +1,16 @@
+
+#Increase the number to generate more structures. Set 0 to not generate.
+["Configs for Chefs Delight"]
+	#Plains Chef House Config - Default = 5
+	"Plains Chef House" = 2
+	#Plains Cook House Config - Default = 2
+	"Plains Cook House" = 2
+	#Taiga Chef House Config - Default = 4
+	"Taiga Chef House" = 2
+	#Taiga Cook House Config - Default = 3
+	"Taiga Cook House" = 2
+	#Desert Chef House Config - Default = 5
+	"Desert Chef House" = 2
+	#Desert Cook House Config - Default = 3
+	"Desert Cook House" = 2
+

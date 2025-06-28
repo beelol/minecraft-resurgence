@@ -1,0 +1,114 @@
+ServerEvents.recipes(event => {
+  // Reliquary removals
+  event.remove({ output: 'reliquary:phoenix_feather' })
+  event.remove({ output: 'reliquary:void_tear' })
+  event.remove({ output: 'reliquary:interdiction_torch' })
+  event.remove({ output: 'reliquary:angelheart_vial' })
+  event.remove({ output: 'reliquary:hunter_handgun' })
+  event.remove({ output: 'reliquary:alkahestry_tome' }) // Optional
+  event.remove({ output: 'reliquary:homing_bullet' })
+  event.remove({ output: 'reliquary:ender_bullet' })
+  event.remove({ output: 'reliquary:lightning_bullet' })
+  event.remove({ output: 'reliquary:concussive_bullet' })
+  event.remove({ output: 'reliquary:detonation_bullet' })
+  event.remove({ output: 'reliquary:sand_bullet' })
+  event.remove({ output: 'reliquary:storm_bullet' })
+  event.remove({ output: 'reliquary:silver_bullet' })
+  event.remove({ output: 'reliquary:burst_bullet' })
+  event.remove({ output: 'reliquary:spores_bullet' })
+  event.remove({ output: 'reliquary:wither_bullet' })
+  event.remove({ output: 'reliquary:incendiary_bullet' })
+
+  // Hexerei removals
+  event.remove({ output: 'hexerei:spell_pickpocket' })
+  event.remove({ output: 'hexerei:mahogany_broom' })
+  event.remove({ output: 'hexerei:willow_broom' })
+  event.remove({ output: 'hexerei:witch_hazel_broom' })
+  event.remove({ output: 'hexerei:brew_of_invisibility' })
+  event.remove({ output: 'hexerei:brew_of_swiftness' })
+  event.remove({ output: 'hexerei:brew_of_fortitude' })
+  event.remove({ output: 'hexerei:spirit_lantern' })
+  event.remove({ output: 'hexerei:crow_flute' })
+  event.remove({ output: 'hexerei:spell_deliver' })
+  event.remove({ output: 'hexerei:spell_retrieve' })
+  event.remove({ output: 'hexerei:spell_attack' })
+  event.remove({ output: 'hexerei:spell_guard' })
+  event.remove({ output: 'hexerei:owl_spawn_egg' });
+  event.remove({ output: 'hexerei:crow_spawn_egg' });
+  event.remove({ output: 'hexerei:owl_familiar_ring' });
+  event.remove({ output: 'hexerei:crow_familiar_ring' });
+  event.remove({ output: 'hexerei:owl_familiar_ring' });
+  event.remove({ output: 'hexerei:crow_familiar_ring' });
+});
+
+
+  // Remove any spell or ritual if present
+  event.remove({ output: 'hexerei:ritual_summon_owl' });
+  event.remove({ output: 'hexerei:ritual_summon_crow' });
+});
+
+
+  // Enemy Expansion: Swift Flight potions
+  event.remove({ output: Item.of('tconstruct:potion_bucket', '{Potion:"enemyexpansion:swift_flight_potion"}') })
+  event.remove({ output: Item.of('immersiveengineering:potion_bucket', '{Potion:"enemyexpansion:swift_flight_potion"}') })
+  event.remove({ output: Item.of('minecraft:potion', '{Potion:"enemyexpansion:swift_flight_potion"}') })
+  event.remove({ output: Item.of('minecraft:splash_potion', '{Potion:"enemyexpansion:swift_flight_potion"}') })
+  event.remove({ output: Item.of('minecraft:lingering_potion', '{Potion:"enemyexpansion:swift_flight_potion"}') })
+
+  // Ender IO teleportation removals
+  event.remove({ output: 'enderio:staff_of_teleportation' })
+  event.remove({ output: 'enderio:travel_staff' }) // If it exists in your modpack
+
+  // Embers Rekindled
+  event.remove({ output: 'embers:projector' })
+  event.remove({ output: 'embers:beam_splitter' })
+  event.remove({ output: 'embers:beam_cannon' })
+  event.remove({ output: 'embers:lens_explosion' })
+  event.remove({ output: 'embers:lens_piercing' })
+  event.remove({ output: 'embers:lens_fire' })
+  event.remove({ output: 'embers:ashen_cloak' })
+  event.remove({ output: 'embers:atmospheric_bellows' })
+
+  // Industrial Foregoing - Remove all except mob crusher & infinity saw
+  event.remove({ output: 'industrialforegoing:infinity_drill' })
+  event.remove({ output: 'industrialforegoing:infinity_hammer' })
+  event.remove({ output: 'industrialforegoing:infinity_trident' })
+  event.remove({ output: 'industrialforegoing:infinity_launcher' })
+  event.remove({ output: 'industrialforegoing:infinity_nuke' })
+  event.remove({ output: 'industrialforegoing:infinity_backpack' })
+  event.remove({ output: 'industrialforegoing:infinity_helmet' })
+  event.remove({ output: 'industrialforegoing:infinity_chestplate' })
+  event.remove({ output: 'industrialforegoing:infinity_leggings' })
+  event.remove({ output: 'industrialforegoing:infinity_boots' })
+
+  // Warium
+  event.remove({ output: 'crusty_chunks:artillery_autoloader' })
+  event.remove({ output: 'crusty_chunks:artillery_charge_loader' })
+  event.remove({ output: 'crusty_chunks:autoloader' })
+
+  // AE2
+  event.remove({ output: 'ae2:spatial_pylon' })
+  event.remove({ output: 'ae2:spatial_storage_cell_2' })
+  event.remove({ output: 'ae2:spatial_storage_cell_16' })
+  event.remove({ output: 'ae2:spatial_storage_cell_128' })
+  event.remove({ output: 'ae2:spatial_io_port' })
+  event.remove({ output: 'ae2:spatial_anchor' })
+
+  // Immersive planes
+  event.remove({ output: 'immersive_aircraft:quadrocopter' })
+
+  // Forestry
+  event.remove({ output: 'forestry:miner_bag_woven' })
+  event.remove({ output: 'forestry:digger_bag_woven' })
+  event.remove({ output: 'forestry:builder_bag_woven' })
+  event.remove({ output: 'forestry:adventurer_bag_woven' })
+  event.remove({ output: 'forestry:hunter_bag_woven' })
+  event.remove({ output: 'forestry:forester_bag_woven' })
+  
+  // Airdrops
+  event.remove({ output: 'dyairdrop:flaregun1' })
+  event.remove({ output: 'dyairdrop:flaregun2' })
+  event.remove({ output: 'dyairdrop:flaregun3' })
+  event.remove({ output: 'dyairdrop:flaregun4' })
+  event.remove({ output: 'dyairdrop:flaregun5' })
+})

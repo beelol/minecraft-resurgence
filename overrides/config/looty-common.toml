@@ -1,0 +1,32 @@
+
+["Looty Settings"]
+
+	["Looty Settings".General]
+		#Treat all containers as Looty by default.
+		enableAllLootyChests = false
+		#Item IDs to log when loading.
+		items = ["minecraft:iron_ingot"]
+
+	["Looty Settings".Loot]
+		fallbackRarity = "COMMON"
+		enableDuplicateItems = false
+
+	["Looty Settings".Animations]
+		enableRespawnAnimations = true
+		enableDespawnAnimations = true
+		enableFancyRespawnAnimations = true
+		#Range: -2.0 ~ 2.0
+		fireworkLaunchYOffset = 0.1
+		#Range: 0 ~ 3
+		fireworkFlightDuration = 1
+
+	["Looty Settings".Timers]
+		#Deprecated. Use looty_respawntimers.json instead.
+		customRespawnTimes = []
+
+	["Looty Settings".Debug]
+		logDirtBlock = true
+		#Range: > 0
+		magicNumber = 42
+		magicNumberIntroduction = "The magic number is..."
+

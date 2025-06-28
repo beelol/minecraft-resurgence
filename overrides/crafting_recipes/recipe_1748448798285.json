@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "immersiveengineering:storage_lead"
+    },
+    "B": {
+      "item": "crusty_chunks:advanced_component"
+    },
+    "C": {
+      "item": "immersiveengineering:storage_lead"
+    },
+    "D": {
+      "item": "crusty_chunks:shielding_component"
+    },
+    "E": {
+      "item": "minecraft:dragon_egg"
+    },
+    "F": {
+      "item": "crusty_chunks:shielding_component"
+    },
+    "G": {
+      "item": "immersiveengineering:storage_lead"
+    },
+    "H": {
+      "item": "crusty_chunks:advanced_component"
+    },
+    "I": {
+      "item": "immersiveengineering:storage_lead"
+    }
+  },
+  "result": {
+    "item": "crusty_chunks:fission_bomb",
+    "count": 1
+  }
+}
